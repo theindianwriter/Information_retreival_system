@@ -1,0 +1,100 @@
+The Ehrenfest paradox concerns the rotation of a "rigid" disc in the theory of relativity.
+In its original 1909 formulation as presented by Paul Ehrenfest in relation to the concept of Born rigidity within special relativity, it discusses an ideally rigid cylinder that is made to rotate about its axis of symmetry. The radius R as seen in the laboratory frame is always perpendicular to its motion and should therefore be equal to its value R0 when stationary. However, the circumference (2πR) should appear Lorentz-contracted to a smaller value than at rest, by the usual factor γ. This leads to the contradiction that R = R0 and R < R0.The paradox has been deepened further by Albert Einstein, who showed that since measuring rods aligned along the periphery and moving with it should appear contracted, more would fit around the circumference, which would thus measure greater than 2πR. This indicates that geometry is non-Euclidean for rotating observers, and was important for Einstein's development of general relativity.Any rigid object made from real materials that is rotating with a transverse velocity close to the speed of sound in the material must exceed the point of rupture due to centrifugal force, because centrifugal pressure can not exceed the shear modulus of material.
+
+  
+    
+      
+        
+          
+            F
+            S
+          
+        
+        =
+        
+          
+            
+              m
+              
+                v
+                
+                  2
+                
+              
+            
+            
+              r
+              S
+            
+          
+        
+        <
+        
+          
+            
+              m
+              
+                c
+                
+                  s
+                
+                
+                  2
+                
+              
+            
+            
+              r
+              S
+            
+          
+        
+        ≈
+        
+          
+            
+              m
+              G
+            
+            
+              r
+              S
+              ρ
+            
+          
+        
+        ≈
+        G
+      
+    
+    {\displaystyle {\frac {F}{S}}={\frac {mv^{2}}{rS}}<{\frac {mc_{s}^{2}}{rS}}\approx {\frac {mG}{rS\rho }}\approx G}
+  where 
+  
+    
+      
+        
+          c
+          
+            s
+          
+        
+      
+    
+    {\displaystyle c_{s}}
+   is speed of sound, 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   is density and 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   is shear modulus. Therefore, when considering velocities close to the speed of light, it is only a thought experiment. Neutron-degenerate matter may allow velocities close to the speed of light, since the speed of neutron-star oscillations are relativistic (though these bodies cannot strictly be said to be "rigid").

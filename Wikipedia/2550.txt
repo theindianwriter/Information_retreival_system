@@ -1,0 +1,5 @@
+A sandwich-structured composite is a special class of composite materials that is fabricated by attaching two thin but stiff skins to a lightweight but thick core. The core material is normally low strength material, but its higher thickness provides the sandwich composite with high bending stiffness with overall low density.
+Open- and closed-cell-structured foams like polyethersulfone polyvinylchloride, polyurethane, polyethylene or polystyrene foams, balsa wood, syntactic foams, and honeycombs are commonly used core materials. Sometimes, the honeycomb structure is filled with other foams for added strength. Open- and closed-cell metal foam can also be used as core materials.
+Laminates of glass or carbon fiber-reinforced thermoplastics or mainly thermoset polymers (unsaturated polyesters, epoxies...) are widely used as skin materials. Sheet metal is also used as skin material in some cases.
+The core is bonded to the skins with an adhesive or with metal components by brazing together.
+

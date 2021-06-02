@@ -1,0 +1,12 @@
+In thermodynamics, the compressibility factor (Z), also known as the compression factor or the gas deviation factor, is a correction factor which describes the deviation of a real gas from ideal gas behaviour. It is simply defined as the ratio of the molar volume of a gas to the molar volume of an ideal gas at the same temperature and pressure.  It is a useful thermodynamic property for modifying the ideal gas law to account for the real gas behaviour.  In general, deviation from ideal behaviour becomes more significant the closer a gas is to a phase change, the lower the temperature or the larger the pressure.  Compressibility factor values are usually obtained by calculation from equations of state (EOS), such as the virial equation which take compound-specific empirical constants as input. For a gas that is a mixture of two or more pure gases (air or natural gas, for example), the gas composition must be known before compressibility can be calculated.  
+Alternatively, the compressibility factor for specific gases can be read from generalized compressibility charts that plot 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+   as a function of pressure at constant temperature.
+The compressibility factor should not be confused with the compressibility (also known as coefficient of compressibility or isothermal compressibility) of a material, which is the measure of the relative volume change of a fluid or solid in response to a pressure change.
+

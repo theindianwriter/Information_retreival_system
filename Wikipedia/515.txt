@@ -1,0 +1,3 @@
+A de Laval nozzle (or convergent-divergent nozzle, CD nozzle or con-di nozzle) is a tube that is pinched in the middle, making a carefully balanced, asymmetric hourglass shape. It is used to accelerate a hot, pressurized gas passing through it to a higher supersonic speed  in the axial (thrust) direction, by converting the heat energy of the flow into kinetic energy. Because of this, the nozzle is widely used in some types of steam turbines and rocket engine nozzles. It also sees use in supersonic jet engines.
+Similar flow properties have been applied to jet streams within astrophysics.
+

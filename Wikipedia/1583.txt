@@ -1,0 +1,3 @@
+The Prandtl lifting-line theory is a mathematical model that predicts lift distribution over a three-dimensional wing based on its geometry. It is also known as the Lanchester–Prandtl wing theory.The theory was expressed independently by Frederick W. Lanchester in 1907, and by Ludwig Prandtl in 1918–1919 after working with Albert Betz and Max Munk.
+In this model, the bound vortex loses strength along the whole wingspan because it is shed as a vortex-sheet from the trailing edge, rather than just as a single vortex from the wing-tips.
+

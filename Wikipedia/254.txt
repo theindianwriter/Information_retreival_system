@@ -1,0 +1,2 @@
+Message Passing Interface (MPI) is a standardized and portable message-passing standard designed to function on parallel computing architectures.  The MPI standard defines the syntax and semantics of library routines that are useful to a wide range of users writing portable message-passing programs in C, C++, and Fortran. There are several open-source MPI implementations, which fostered the development of a parallel software industry, and encouraged development of portable and scalable large-scale parallel applications.
+

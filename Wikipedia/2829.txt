@@ -1,0 +1,3 @@
+The Whitcomb area rule, also called the transonic area rule, is a design technique used to reduce an aircraft's drag at transonic and supersonic speeds, particularly between Mach 0.75 and 1.2.
+This is one of the most important operating speed ranges for commercial and military fixed-wing aircraft today, with transonic acceleration being considered an important performance metric for combat aircraft and necessarily dependent upon transonic drag.
+

@@ -1,0 +1,3 @@
+In mathematics, some functions or groups of functions are important enough to deserve their own names. This is a listing of articles which explain some of these functions in more detail. There is a large theory of special functions which developed out of statistics and mathematical physics. A modern, abstract point of view contrasts large function spaces, which are infinite-dimensional and within which most functions are 'anonymous', with special functions picked out by properties such as symmetry, or relationship to harmonic analysis and group representations.
+See also List of types of functions
+

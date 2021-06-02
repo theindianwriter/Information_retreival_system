@@ -1,0 +1,4 @@
+In physics, the special theory of relativity, or special relativity for short, is a scientific theory regarding the relationship between space and time. In Albert Einstein's original treatment, the theory is based on two postulates:
+The laws of physics are invariant (that is, identical) in all inertial frames of reference (that is, frames of reference with no acceleration).
+The speed of light in vacuum is the same for all observers, regardless of the motion of the light source or observer.
+

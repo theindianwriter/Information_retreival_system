@@ -1,0 +1,7 @@
+According to the classical theories of elastic or plastic structures made from a material with non-random strength (ft), the nominal strength (σN) of a structure is independent of the structure size (D) when geometrically similar structures are considered. Any deviation from this property is called the size effect.  For example, conventional strength of materials predicts that a large beam and a tiny beam will fail at the same stress if they are made of the same material.  In the real world, because of size effects, a larger beam will fail at a lower stress than a smaller beam.
+The structural size effect concerns structures made of the same material, with the same microstructure. It must be distinguished from the size effect of material inhomogeneities, particularly the Hall-Petch effect, which describes how the material strength increases with decreasing grain size in polycrystalline metals.
+The size effect can have two causes: 
+
+statistical, due to material strength randomness, likelihood of a critical flaw occurring in a high-stress location, and increasing volume increasing the probability of a serious flaw.
+energetic (and non-statistical), due to energy release when a large crack or a large fracture process zone (FPZ) containing damaged material develops before the maximum load is reached.
+

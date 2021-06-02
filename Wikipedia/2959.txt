@@ -1,0 +1,14 @@
+Glutamate dehydrogenase (GLDH, GDH) is an enzyme observed in both prokaryotes and eukaryotic  mitochondria.  The aforementioned reaction also yields ammonia, which in eukaryotes is canonically processed as a substrate in the urea cycle. Typically, the α-ketoglutarate to glutamate reaction does not occur in mammals, as glutamate dehydrogenase equilibrium favours the production of ammonia and α-ketoglutarate. Glutamate dehydrogenase also has a very low affinity for ammonia (high Michaelis constant 
+  
+    
+      
+        
+          K
+          
+            m
+          
+        
+      
+    
+    {\displaystyle K_{m}}
+   of about 1 mM), and therefore toxic levels of ammonia would have to be present in the body for the reverse reaction to proceed (that is, α-ketoglutarate and ammonia to glutamate and NAD(P)+). However, in brain, the NAD+/NADH ratio in brain mitochondria encourages oxidative deamination (i.e. glutamate to α-ketoglutarate and ammonia). In bacteria, the ammonia is assimilated to amino acids via glutamate and aminotransferases. In plants, the enzyme can work in either direction depending on environment and stress. Transgenic plants expressing microbial GLDHs are improved in tolerance to herbicide, water deficit, and pathogen infections. They are more nutritionally valuable.The enzyme represents a key link between catabolic and anabolic pathways, and is, therefore, ubiquitous in eukaryotes. In humans the relevant genes are called GLUD1 (glutamate dehydrogenase 1) and GLUD2 (glutamate dehydrogenase 2), and there are also at least 8 GLDH pseudogenes in the human genome as well, probably reflecting microbial influences on eukaryote evolution.

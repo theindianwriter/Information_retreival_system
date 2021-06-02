@@ -1,0 +1,4 @@
+An electric arc furnace (EAF) is a furnace that heats charged material by means of an electric arc.
+Industrial arc furnaces range in size from small units of approximately one-tonne capacity (used in foundries for producing cast iron products) up to about 400-tonne units used for secondary steelmaking. Arc furnaces used in research laboratories and by dentists may have a capacity of only a few dozen grams. Industrial electric arc furnace temperatures can reach 1,800 °C (3,300 °F), while laboratory units can exceed 3,000 °C (5,400 °F).
+Arc furnaces differ from induction furnaces, in that the charged material is directly exposed to an electric arc and the current in the furnace terminals pass through the charged material.
+

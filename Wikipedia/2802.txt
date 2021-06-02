@@ -1,0 +1,2 @@
+In aeronautics and aeronautical engineering, camber is the asymmetry between the two acting surfaces of an airfoil, with the top surface of a wing (or correspondingly the front surface of a propeller blade) commonly being more convex (positive camber).  An airfoil that is not cambered is called a symmetric airfoil. The benefits of cambering were discovered and first utilized by George Cayley in the early 19th century.
+

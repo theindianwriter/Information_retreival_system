@@ -1,0 +1,2 @@
+The Kelvin–Helmholtz instability (after Lord Kelvin and Hermann von Helmholtz) typically occurs when there is velocity shear in a single continuous fluid, or additionally where there is a velocity difference across the interface between two fluids. A common example is seen when wind blows across a water surface; the instability constant manifests as waves. Kelvin-Helmholtz instabilities are also visible in the atmospheres of planets and moons, such as in cloud formations on Earth or the Red Spot on Jupiter, and the atmospheres (coronas) of stars, including the sun's.
+

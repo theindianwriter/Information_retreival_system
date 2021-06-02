@@ -1,0 +1,57 @@
+The magnetorotational instability (MRI) is a fluid instability that causes an accretion disk orbiting a massive central object to become turbulent.  It arises when the angular velocity of a conducting fluid in a magnetic field decreases as the distance from the rotation center increases. It is also known as the Velikhov–Chandrasekhar instability or Balbus–Hawley instability in the literature, not to be confused with the electrothermal Velikhov instability. The MRI is of particular relevance in astrophysics where it is an important part of the dynamics in accretion disks.
+Gases or liquids containing mobile electrical charges are subject to the influence of a magnetic field. In addition to hydrodynamical forces such as pressure and gravity, an element of magnetized fluid also feels the Lorentz force 
+  
+    
+      
+        
+          J
+        
+        ×
+        
+          B
+        
+         
+        ,
+      
+    
+    {\displaystyle {\boldsymbol {J}}\times {\boldsymbol {B}}\ ,}
+   where 
+  
+    
+      
+        
+          J
+        
+      
+    
+    {\displaystyle {\boldsymbol {J}}}
+   is the current density and 
+  
+    
+      
+        
+          B
+        
+      
+    
+    {\displaystyle {\boldsymbol {B}}}
+   is the magnetic field vector. If the fluid is in a state of differential rotation about a fixed origin, this Lorentz force can be surprisingly disruptive, even if the magnetic field is very weak. In particular,  if the angular velocity of rotation 
+  
+    
+      
+        Ω
+      
+    
+    {\displaystyle \Omega }
+   decreases with radial distance 
+  
+    
+      
+        R
+         
+        ,
+      
+    
+    {\displaystyle R\ ,}
+   the motion is unstable: a fluid element undergoing a small displacement from circular motion experiences a destabilizing force that increases at a rate which is itself proportional to the displacement. This process is known as the Magnetorotational Instability, or  "MRI".
+In astrophysical settings, differentially rotating systems are very common and magnetic fields are ubiquitous. In particular, thin disks of gas are often found around forming stars or in binary star systems, where they are known as accretion disks. Accretion disks are also commonly present in the centre of galaxies, and in some cases can be extremely luminous: quasars, for example, are thought to originate from a gaseous disk surrounding a very massive black hole. Our modern understanding of the MRI arose from attempts to understand the behavior of accretion disks in the presence of magnetic fields; it is now understood that the MRI is likely to occur in a very wide variety of different systems.

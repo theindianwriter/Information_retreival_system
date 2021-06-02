@@ -1,0 +1,1 @@
+In fluid dynamics, the Falkner–Skan boundary layer (named after V. M. Falkner and Sylvia W. Skan) describes the steady two-dimensional laminar boundary layer that forms on a wedge, i.e. flows in which the plate is not parallel to the flow. It is a generalization of the Blasius boundary layer.

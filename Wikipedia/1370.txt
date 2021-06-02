@@ -1,0 +1,2 @@
+Perlin noise is a type of gradient noise developed by Ken Perlin.  
+

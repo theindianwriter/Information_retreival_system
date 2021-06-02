@@ -1,0 +1,55 @@
+In thermodynamics, the specific heat capacity or occasionally massic heat capacity (symbol cp) of a substance is the heat capacity of a sample of the substance divided by the mass of the sample. Informally, it is the amount of energy that must be added, in the form of heat, to one unit of mass of the substance in order to cause an increase of one unit in temperature.  The SI unit of specific heat capacity is joule per kelvin per kilogram, J⋅kg−1⋅K−1. For example, the heat required to raise the temperature of 1 kg of water by 1 K is 4184 joules so the specific heat capacity of water is 4184 J⋅kg−1⋅K−1.The specific heat capacity often varies with temperature, and is different for each state of matter. Liquid water has one of the highest specific heat capacities among common substances, about 4184 J⋅kg−1⋅K−1 at 20 °C; but that of ice just below 0 °C is only 2093 J⋅kg−1⋅K−1. The specific heat capacities of iron, granite, and hydrogen gas are about 449 J⋅kg−1⋅K−1, 790 J⋅kg−1⋅K−1, and 14300 J⋅kg−1⋅K−1, respectively. While the substance is undergoing a phase transition, such as melting or boiling, its specific heat capacity is technically infinite, because the heat goes into changing its state rather than raising its temperature.
+The specific heat capacity of a substance, especially a gas, may be significantly higher when it is allowed to expand as it is heated (specific heat capacity at constant pressure) than when is heated in a closed vessel that prevents expansion (specific heat capacity at constant volume).  These two values are usually denoted by 
+  
+    
+      
+        
+          c
+          
+            p
+          
+        
+      
+    
+    {\displaystyle c_{p}}
+   and 
+  
+    
+      
+        
+          c
+          
+            V
+          
+        
+      
+    
+    {\displaystyle c_{V}}
+  , respectively; their quotient 
+  
+    
+      
+        γ
+        =
+        
+          c
+          
+            p
+          
+        
+        
+          /
+        
+        
+          c
+          
+            V
+          
+        
+      
+    
+    {\displaystyle \gamma =c_{p}/c_{V}}
+  is the heat capacity ratio.
+The term specific heat may refer to the ratio between the specific heat capacities of a substance at a given temperature and of a reference substance at a reference temperature, such as water at 15 °C; much in the fashion of specific gravity.
+Specific heat capacity relates to other intensive measures of heat capacity with other denominators. If the amount of substance is measured as a number of moles, one gets the molar heat capacity instead (whose SI unit is joule per kelvin per mole, J⋅mol−1⋅K−1. If the amount is taken to be the volume of the sample (as is sometimes done in engineering), one gets the volumetric heat capacity (whose SI unit is joule per kelvin per cubic meter, J⋅m−3⋅K−1).
+One of the first scientists to use the concept was Joseph Black, 18th-century medical doctor and professor of Medicine at Glasgow University. He measured the specific heat capacities of many substances, using the term capacity for heat.

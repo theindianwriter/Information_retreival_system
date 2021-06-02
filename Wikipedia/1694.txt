@@ -1,0 +1,114 @@
+In mathematical optimization, the Rosenbrock function is a non-convex function, introduced by Howard H. Rosenbrock in 1960, which is used as a performance test problem for optimization algorithms. It is also known as Rosenbrock's valley or Rosenbrock's banana function.
+The global minimum is inside a long, narrow, parabolic shaped flat valley. To find the valley is trivial. To converge to the global minimum, however, is difficult.
+The function is defined by
+
+  
+    
+      
+        f
+        (
+        x
+        ,
+        y
+        )
+        =
+        (
+        a
+        −
+        x
+        
+          )
+          
+            2
+          
+        
+        +
+        b
+        (
+        y
+        −
+        
+          x
+          
+            2
+          
+        
+        
+          )
+          
+            2
+          
+        
+      
+    
+    {\displaystyle f(x,y)=(a-x)^{2}+b(y-x^{2})^{2}}
+  
+It has a global minimum at 
+  
+    
+      
+        (
+        x
+        ,
+        y
+        )
+        =
+        (
+        a
+        ,
+        
+          a
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle (x,y)=(a,a^{2})}
+  , where 
+  
+    
+      
+        f
+        (
+        x
+        ,
+        y
+        )
+        =
+        0
+      
+    
+    {\displaystyle f(x,y)=0}
+  . Usually these parameters are set such that 
+  
+    
+      
+        a
+        =
+        1
+      
+    
+    {\displaystyle a=1}
+   and 
+  
+    
+      
+        b
+        =
+        100
+      
+    
+    {\displaystyle b=100}
+  . Only in the trivial case where 
+  
+    
+      
+        a
+        =
+        0
+      
+    
+    {\displaystyle a=0}
+   the function is symmetric and the minimum is at the origin.

@@ -1,0 +1,2 @@
+Figure of the Earth is a term of art in geodesy that refers to the size and shape used to model Earth. The size and shape it refers to depend on context, including the precision needed for the model. The sphere is an approximation of the figure of the Earth that is satisfactory for many purposes. Several models with greater accuracy have been developed so that coordinate systems can serve the precise needs of navigation, surveying, cadastre, land use, and various other concerns.
+

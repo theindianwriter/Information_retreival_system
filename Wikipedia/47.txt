@@ -1,0 +1,124 @@
+Slip ratio (or velocity ratio) in gas–liquid (two-phase) flow, is defined as the ratio of the velocity of the gas phase to the velocity of the liquid phase.In the homogeneous model of two-phase flow, the slip ratio is by definition assumed to be unity (no slip). It is however experimentally observed that the velocity of the gas and liquid phases can be significantly different, depending on the flow pattern (e.g. plug flow, annular flow, bubble flow, stratified flow, slug flow, churn flow). The models that account for the existence of the slip are called "separated flow models".
+The following identities can be written using the interrelated definitions:
+
+  
+    
+      
+        S
+        =
+        
+          
+            
+              u
+              
+                G
+              
+            
+            
+              u
+              
+                L
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                U
+                
+                  G
+                
+              
+              (
+              1
+              −
+              
+                ϵ
+                
+                  G
+                
+              
+              )
+            
+            
+              
+                U
+                
+                  L
+                
+              
+              
+                ϵ
+                
+                  G
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                ρ
+                
+                  L
+                
+              
+              x
+              (
+              1
+              −
+              
+                ϵ
+                
+                  G
+                
+              
+              )
+            
+            
+              
+                ρ
+                
+                  G
+                
+              
+              (
+              1
+              −
+              x
+              )
+              
+                ϵ
+                
+                  G
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle S={\frac {u_{G}}{u_{L}}}={\frac {U_{G}(1-\epsilon _{G})}{U_{L}\epsilon _{G}}}={\frac {\rho _{L}x(1-\epsilon _{G})}{\rho _{G}(1-x)\epsilon _{G}}}}
+  where:
+
+S – slip ratio, dimensionless
+indices G and L refer to the gas and the liquid phase, respectively
+u – velocity, m/s
+U – superficial velocity, m/s
+
+  
+    
+      
+        ϵ
+      
+    
+    {\displaystyle \epsilon }
+   – void fraction, dimensionless
+ρ – density of a phase, kg/m3
+x – steam quality, dimensionless.

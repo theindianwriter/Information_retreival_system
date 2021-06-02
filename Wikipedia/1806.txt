@@ -1,0 +1,9 @@
+In fracture mechanics, the energy release rate, 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  , is the rate at which energy is transformed as a material undergoes fracture. Mathematically, the energy release rate is expressed as the decrease in total potential energy per increase in fracture surface area, and is thus expressed in terms of energy per unit area. Various energy balances can be constructed relating the energy released during fracture to the energy of the resulting new surface, as well as other dissipative processes such as plasticity and heat generation. The energy release rate is central to the field of fracture mechanics when solving problems and estimating material properties related to fracture and fatigue.

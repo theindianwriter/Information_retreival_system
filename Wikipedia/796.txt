@@ -1,0 +1,32 @@
+Cardiac output (CO), also known as heart output denoted by the symbols 
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+  , or 
+  
+    
+      
+        
+          
+            
+              
+                Q
+                ˙
+              
+            
+          
+          
+            c
+          
+        
+      
+    
+    {\displaystyle {\dot {Q}}_{c}}
+  , is a term used in cardiac physiology that describes the volume of blood being pumped by the heart, by the left and right ventricle, per unit time. Cardiac output (CO) is the product of the heart rate (HR), i.e. the number of heartbeats per minute (bpm), and the stroke volume (SV), which is the volume of blood pumped from the ventricle per beat; thus, CO = HR × SV. Values for cardiac output are usually denoted as L/min. For a healthy person weighing 70 kg, the cardiac output at rest averages about 5 L/min; assuming a heart rate of 70 beats/min, the stroke volume would be approximately 70 ml.
+Because cardiac output is related to the quantity of blood delivered to various parts of the body, it is an important component of how efficiently the heart can meet the body's demands for the maintenance of adequate tissue perfusion. Body tissues require continuous oxygen delivery which requires the sustained transport of oxygen to the tissues by the systemic circulation of oxygenated blood at an adequate pressure from the left ventricle of the heart via the aorta and arteries. Oxygen delivery (DO2 mL/min) is the resultant of blood flow (cardiac output CO) times the blood oxygen content (CaO2). Mathematically this is calculated as follows: Oxygen delivery = cardiac output × arterial oxygen content DO2 = CO × CaO2. With a resting cardiac output of 5-litre min−1 a 'normal'  oxygen delivery is around 997.5 ml min.  The amount/percentage of the circulated oxygen consumed (VO2) per minute through metabolism varies depending on the activity level but at rest is circa 25% of the DO2.  Physical exercise requires a higher than resting-level of oxygen consumption to support increased muscle activity. In the case of heart failure, actual CO may be insufficient to support even simple activities of daily living; nor can it increase sufficiently to meet the higher metabolic demands stemming from even moderate exercise.
+Cardiac output is a global blood flow parameter of interest in hemodynamics, the study of the flow of blood. The factors affecting stroke volume and heart rate also affect cardiac output. The figure at the right margin illustrates this dependency and lists some of these factors. A detailed hierarchical illustration is provided in a subsequent figure.
+There are many methods of measuring CO, both invasively and non-invasively; each has advantages and drawbacks as described below.

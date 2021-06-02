@@ -1,0 +1,3 @@
+Computational electromagnetics (CEM), computational electrodynamics or electromagnetic modeling is the process of modeling the interaction of electromagnetic fields with physical objects and the environment.
+It typically involves using computer programs to compute approximate solutions to Maxwell's equations to calculate antenna performance, electromagnetic compatibility, radar cross section and electromagnetic wave propagation when not in free space.  A large subfield is antenna modeling computer programs, which calculate the radiation pattern and electrical properties of radio antennas, and are widely used to design antennas for specific applications.
+

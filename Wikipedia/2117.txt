@@ -1,0 +1,4 @@
+K-epsilon (k-ε) turbulence model is the most common model used in Computational Fluid Dynamics (CFD) to simulate mean flow characteristics for turbulent flow conditions. It is a two equation model that gives a general description of turbulence by means of two transport equations (PDEs). The original impetus for the K-epsilon model was to improve the mixing-length model, as well as to find an alternative to algebraically prescribing turbulent length scales in moderate to high complexity flows.
+The first transported variable is the turbulent kinetic energy (k).
+The second transported variable is the rate of dissipation of turbulent kinetic energy (ε).
+

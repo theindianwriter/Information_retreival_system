@@ -1,0 +1,5 @@
+The SFI Group System is the most widely used classification system for the maritime and offshore industry worldwide. It is an international standard, which provides a functional subdivision of technical and financial ship or rig information.
+SFI consists of a technical account structure covering all aspects of ship/rig specification, and it can be used as a basic standard for all systems in the shipping/offshore industry.
+More than 6000 SFI systems have been installed worldwide.
+SFI is used by shipping and offshore companies, shipyards, consultancies, software suppliers, authorities and classification societies.
+

@@ -1,0 +1,2 @@
+Blood gas tension refers to the partial pressure of gases in blood. There are several significant purposes for measuring gas tension. The most common gas tensions measured are oxygen tension (PxO2), carbon dioxide tension (PxCO2) and carbon monoxide tension (PxCO). The subscript x in each symbol represents the source of the gas being measured: "a" meaning arterial, "A" being alveolar, "v" being venous, and "c" being capillary. Blood gas tests (such as arterial blood gas tests) measure these partial pressures.
+

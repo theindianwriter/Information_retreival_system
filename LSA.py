@@ -84,7 +84,6 @@ class LSA():
         
         # calculating tf-idf for each term in the vocabulary
         tf_idf = self.__calucateTF_IDF(docs,docIDs)
-
         self.id2index = {}
         i = 0
         for id in docIDs:

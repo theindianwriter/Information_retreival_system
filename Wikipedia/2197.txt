@@ -1,0 +1,3 @@
+A rocket engine nozzle is a propelling nozzle (usually of the de Laval type) used in a rocket engine to expand and accelerate the combustion gases produced by burning propellants so that the exhaust gases exit the nozzle at hypersonic velocities.
+Simply: the rocket (pumps and a combustion chamber) generates high pressure, a few hundred atmospheres. The nozzle turns the static high pressure high temperature gas into rapidly moving gas at near-ambient pressure.
+

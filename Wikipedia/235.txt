@@ -1,0 +1,2 @@
+Stock-flow consistent models (SFC) are a family of macroeconomic models based on a rigorous accounting framework, which guarantees a correct and comprehensive integration of all the flows and the stocks of an economy. These models were first developed in the mid-20th century but have recently become popular, particularly within the post-Keynesian school of thought. Stock-flow consistent models are in contrast to dynamic stochastic general equilibrium models, which are used in mainstream economics.
+

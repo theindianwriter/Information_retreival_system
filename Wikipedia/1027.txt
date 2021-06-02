@@ -1,0 +1,91 @@
+In fluid dynamics, Rayleigh's equation or Rayleigh stability equation is a linear ordinary differential equation to study the hydrodynamic stability of a parallel, incompressible and inviscid shear flow. The equation is:
+
+  
+    
+      
+        (
+        U
+        −
+        c
+        )
+        (
+        
+          φ
+          ″
+        
+        −
+        
+          k
+          
+            2
+          
+        
+        φ
+        )
+        −
+        
+          U
+          ″
+        
+        φ
+        =
+        0
+        ,
+      
+    
+    {\displaystyle (U-c)(\varphi ''-k^{2}\varphi )-U''\varphi =0,}
+  with 
+  
+    
+      
+        U
+        (
+        z
+        )
+      
+    
+    {\displaystyle U(z)}
+   the flow velocity of the steady base flow whose stability is to be studied and 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+   is the cross-stream direction (i.e. perpendicular to the flow direction). Further 
+  
+    
+      
+        φ
+        (
+        z
+        )
+      
+    
+    {\displaystyle \varphi (z)}
+   is the complex valued amplitude of the infinitesimal streamfunction perturbations applied to the base flow, 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   is the wavenumber of the perturbations and 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   is the phase speed with which the perturbations propagate in the flow direction. The prime denotes differentiation with respect to 
+  
+    
+      
+        z
+        .
+      
+    
+    {\displaystyle z.}

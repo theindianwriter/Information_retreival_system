@@ -1,0 +1,10 @@
+This is a list of ASTM International standards.
+Standard designations usually consist of a letter prefix and a sequentially assigned number. This may optionally be followed by a dash and the last two digits of the year in which the standard was adopted. Prefix letters correspond to the following subjects:
+
+A = Iron and Steel Materials
+B = Nonferrous Metal Materials
+C = Ceramic, Concrete, and Masonry Materials
+D = Miscellaneous Materials
+E = Miscellaneous Subjects
+F = Materials for Specific Applications
+G = Corrosion, Deterioration, and Degradation of MaterialsThis list may include either current or withdrawn standards. A withdrawn standard has been discontinued by its sponsoring committee. A standard may be withdrawn with or without replacement.

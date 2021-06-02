@@ -1,0 +1,78 @@
+The superposition principle, also known as superposition property, states that, for all linear systems, the net response caused by two or more stimuli is the sum of the responses that would have been caused by each stimulus individually. So that if input A produces response X and input B produces response Y then input (A + B) produces response (X + Y).
+A function 
+  
+    
+      
+        F
+        (
+        x
+        )
+      
+    
+    {\displaystyle F(x)}
+   that satisfies the superposition principle is called a linear function. Superposition can be defined by two simpler properties; additivity and homogeneity  
+
+  
+    
+      
+        F
+        (
+        
+          x
+          
+            1
+          
+        
+        +
+        
+          x
+          
+            2
+          
+        
+        )
+        =
+        F
+        (
+        
+          x
+          
+            1
+          
+        
+        )
+        +
+        F
+        (
+        
+          x
+          
+            2
+          
+        
+        )
+        
+      
+    
+    {\displaystyle F(x_{1}+x_{2})=F(x_{1})+F(x_{2})\,}
+   Additivity
+  
+    
+      
+        F
+        (
+        a
+        x
+        )
+        =
+        a
+        F
+        (
+        x
+        )
+        
+      
+    
+    {\displaystyle F(ax)=aF(x)\,}
+   Homogeneityfor scalar a.This principle has many applications in physics and engineering because many physical systems can be modeled as linear systems. For example, a beam can be modeled as a linear system where the input stimulus is the load on the beam and the output response is the deflection of the beam. The importance of linear systems is that they are easier to analyze mathematically; there is a large body of mathematical techniques, frequency domain linear transform methods such as Fourier and Laplace transforms, and linear operator theory, that are applicable. Because physical systems are generally only approximately linear, the superposition principle is only an approximation of the true physical behavior.
+The superposition principle applies to any linear system, including algebraic equations, linear differential equations, and systems of equations of those forms. The stimuli and responses could be numbers, functions, vectors, vector fields, time-varying signals, or any other object that satisfies certain axioms. Note that when vectors or vector fields are involved, a superposition is interpreted as a vector sum. If the superposition holds, then it automatically also holds for all linear operations applied on these functions (due to defintion), such as gradients, differentials or integrals (if they exist).

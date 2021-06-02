@@ -1,0 +1,2 @@
+The crescent wing is a fixed-wing aircraft configuration in which a swept wing has a greater sweep angle on the inboard section than the outboard, giving the wing a crescent shape.
+The planform attempts to reduce several unpleasant side-effects of the swept wing design, notably its tendency to "pitch-up", sometimes violently, when it nears a stall.

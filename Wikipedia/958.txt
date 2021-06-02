@@ -1,0 +1,2 @@
+In fluid dynamics, stagnation point flow represents the flow of a fluid in the immediate neighborhood of a solid surface. As the fluid approaches the surface it divides into two streams. Although the fluid is stagnant everywhere on the solid surface due to no-slip condition, the name stagnation point refers to the stagnation points of inviscid Euler solutions.
+

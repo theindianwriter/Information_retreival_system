@@ -1,0 +1,93 @@
+Various types of stability may be discussed for the solutions of differential equations or difference equations describing dynamical systems. The most important type is that concerning the stability of solutions near to a point of equilibrium. This may be discussed by the theory of Aleksandr Lyapunov. In simple terms,  if the solutions that start out near an equilibrium point 
+  
+    
+      
+        
+          x
+          
+            e
+          
+        
+      
+    
+    {\displaystyle x_{e}}
+   stay near 
+  
+    
+      
+        
+          x
+          
+            e
+          
+        
+      
+    
+    {\displaystyle x_{e}}
+   forever, then 
+  
+    
+      
+        
+          x
+          
+            e
+          
+        
+      
+    
+    {\displaystyle x_{e}}
+   is Lyapunov stable.  More strongly, if 
+  
+    
+      
+        
+          x
+          
+            e
+          
+        
+      
+    
+    {\displaystyle x_{e}}
+   is Lyapunov stable and all solutions that start out near 
+  
+    
+      
+        
+          x
+          
+            e
+          
+        
+      
+    
+    {\displaystyle x_{e}}
+   converge to 
+  
+    
+      
+        
+          x
+          
+            e
+          
+        
+      
+    
+    {\displaystyle x_{e}}
+  , then 
+  
+    
+      
+        
+          x
+          
+            e
+          
+        
+      
+    
+    {\displaystyle x_{e}}
+   is asymptotically stable. The notion of exponential stability guarantees a minimal rate of decay, i.e., an estimate of how quickly the solutions converge. The idea of Lyapunov stability can be extended to infinite-dimensional manifolds, where it is known as structural stability, which concerns the behavior of different but "nearby" solutions to differential equations. Input-to-state stability (ISS) applies Lyapunov notions to systems with inputs.
+In the restricted three-body problem, Lyapunov orbits are curved paths around a Lagrangian point that lie entirely in the plane of the two primary bodies, in contrast with halo orbits and Lissajous orbits, which move above and below the plane also.

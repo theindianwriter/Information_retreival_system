@@ -1,0 +1,3 @@
+Micropumps are devices that can control and manipulate small fluid volumes. Although any kind of small pump is often referred to as micropump, a more accurate definition restricts this term to pumps with functional dimensions in the micrometer range. Such pumps are of special interest in microfluidic research, and have become available for industrial product integration in recent years. Their miniaturized overall size, potential cost and improved dosing accuracy compared to existing miniature pumps fuel the growing interest for this innovative kind of pump.
+Note that the below text is very incomplete in terms of providing a good overview of the different micropump types and applications, and therefore please refer to good review articles on the topic.
+

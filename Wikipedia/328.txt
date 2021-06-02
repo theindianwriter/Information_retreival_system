@@ -1,0 +1,2 @@
+In physics, nonlinear resonance is the occurrence of resonance in a nonlinear system. In nonlinear resonance the system behaviour – resonance frequencies and modes – depends on the amplitude of the oscillations, while for linear systems this is independent of amplitude. The mixing of modes in non-linear systems is termed resonant interaction.
+

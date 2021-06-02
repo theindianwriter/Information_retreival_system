@@ -1,0 +1,3 @@
+A supersonic wind tunnel is a wind tunnel that produces supersonic speeds (1.2<M<5)
+The Mach number and flow are determined by the nozzle geometry. The Reynolds number is varied by changing the density level (pressure in the settling chamber). Therefore, a high pressure ratio is required (for a supersonic regime at M=4, this ratio is of the order of 10). Apart from that, condensation of moisture or even gas liquefaction can occur if the static temperature becomes cold enough. This means that a supersonic wind tunnel usually needs a drying or a pre-heating facility.
+A supersonic wind tunnel has a large power demand, so most are designed for intermittent instead of continuous operation.

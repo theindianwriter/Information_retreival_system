@@ -1,0 +1,1 @@
+Supersonic flow over a flat plate is a classical fluid dynamics problem. There is no exact solution to it.

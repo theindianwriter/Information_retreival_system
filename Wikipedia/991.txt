@@ -1,0 +1,4 @@
+In heat transfer, the thermal conductivity of a substance, k, is an intensive property that indicates its ability to conduct heat.
+Thermal conductivity is often measured with laser flash analysis. Alternative measurements are also established.
+Mixtures may have variable thermal conductivities due to composition. Note that for gases in usual conditions, heat transfer by advection (caused by convection or turbulence for instance) is the dominant mechanism compared to conduction.
+This table shows thermal conductivity in SI units of watts per metre-kelvin (W·m−1·K−1).  Some measurements use the imperial unit BTUs per foot per hour per degree Fahrenheit (1 BTU h−1 ft−1 F−1 = 1.728 W·m−1·K−1).

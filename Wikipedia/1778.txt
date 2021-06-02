@@ -1,0 +1,2 @@
+The slowed rotor principle is used in the design of some helicopters. On a conventional helicopter the rotational speed of the rotor is constant; reducing it at lower flight speeds can also reduce fuel consumption and enable the aircraft to fly more economically. In the compound helicopter and related aircraft configurations such as the gyrodyne and winged autogyro, reducing the rotational speed of the rotor and offloading part of its lift to a fixed wing reduces the drag, enabling the aircraft to fly faster.
+

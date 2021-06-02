@@ -1,0 +1,3 @@
+The Sievert integral, named after Swedish medical physicist Rolf Sievert, is a special function commonly encountered in radiation transport calculations. 
+It plays a role in the sievert (symbol: Sv) unit of ionizing radiation dose in the International System of Units (SI).
+

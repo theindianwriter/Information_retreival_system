@@ -1,0 +1,139 @@
+Multiscale turbulence is a class of turbulent flows in which the chaotic motion of the fluid is forced at different length and/or time scales. This is usually achieved by immersing in a moving fluid a body with a multiscale, often fractal-like, arrangement of length scales. This arrangement of scales can be either passive or active
+
+As turbulent flows contain eddies with a wide range of scales, exciting the turbulence at particular scales (or range of scales) allows one to fine-tune the properties of that flow. Multiscale turbulent flows have been successfully applied in different fields., such as:
+
+Reducing acoustic noise from wings by modifying the geometry of spoilers;
+Enhancing heat transfer from impinging jets passing through grids;
+Reducing the vortex shedding intensity of flows past normal plates without changing the shedding frequency;
+Enhancing mixing by energy-efficient stirring;
+Improving flow metering and flow conditioning in pipes;
+Improving combustion.
+Multiscale turbulence has also played an important role into probing the internal structure of turbulence. This sort of turbulence allowed researchers to unveil a novel dissipation law in which the parameter 
+  
+    
+      
+        
+          C
+          
+            ϵ
+          
+        
+      
+    
+    {\displaystyle C_{\epsilon }}
+   in
+
+  
+    
+      
+        ε
+        =
+        
+          C
+          
+            ε
+          
+        
+        
+          
+            
+              
+                
+                  U
+                
+              
+              
+                3
+              
+            
+            
+              L
+            
+          
+        
+      
+    
+    {\displaystyle \varepsilon =C_{\varepsilon }{\frac {{\mathcal {U}}^{3}}{\mathcal {L}}}}
+  is not constant, as required by the Richardson-Kolmogorov energy cascade. This new law can be expressed as 
+  
+    
+      
+        
+          C
+          
+            ϵ
+          
+        
+        ∝
+        
+          
+            
+              R
+              
+                e
+                
+                  I
+                
+                
+                  m
+                
+              
+            
+            
+              R
+              
+                e
+                
+                  L
+                
+                
+                  n
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle C_{\epsilon }\propto {\frac {Re_{I}^{m}}{Re_{L}^{n}}}}
+  , with 
+  
+    
+      
+        m
+        ≈
+        1
+        ≈
+        n
+      
+    
+    {\displaystyle m\approx 1\approx n}
+  , where 
+  
+    
+      
+        R
+        
+          e
+          
+            I
+          
+        
+      
+    
+    {\displaystyle Re_{I}}
+   and 
+  
+    
+      
+        R
+        
+          e
+          
+            L
+          
+        
+      
+    
+    {\displaystyle Re_{L}}
+   are Reynolds numbers based, respectively, on initial/global conditions (such as free-stream velocity and the object's length scale) and local conditions (such as the rms velocity and integral length scale). This new dissipation law characterises non-equilibrium turbulence apparently universally in various flows (not just multiscale turbulence) and results from non-equilibrium unsteady energy cascade. This imbalance implies that new mean flow scalings exist for free shear turbulent flows, as already observed in axisymmetric wakes

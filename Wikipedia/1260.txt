@@ -1,0 +1,72 @@
+In fluid dynamics, Howarth–Dorodnitsyn transformation (or Dorodnitsyn-Howarth transformation) is a density-weighted coordinate transformation, which reduces compressible flow conservation equations to simpler form (in most cases, to incompressible form). The transformation was first used by Anatoly Dorodnitsyn in 1942 and later by Leslie Howarth in 1948. The transformation of 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   coordinate to 
+  
+    
+      
+        η
+      
+    
+    {\displaystyle \eta }
+   is given by
+
+  
+    
+      
+        η
+        =
+        
+          ∫
+          
+            0
+          
+          
+            y
+          
+        
+        
+          
+            ρ
+            
+              ρ
+              
+                ∞
+              
+            
+          
+        
+         
+        d
+        y
+        ,
+      
+    
+    {\displaystyle \eta =\int _{0}^{y}{\frac {\rho }{\rho _{\infty }}}\ dy,}
+  where 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   is the density and 
+  
+    
+      
+        
+          ρ
+          
+            ∞
+          
+        
+      
+    
+    {\displaystyle \rho _{\infty }}
+   is the density at infinity. The transformation is extensively used in boundary layer theory and other gas dynamics problems.

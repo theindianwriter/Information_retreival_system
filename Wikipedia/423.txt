@@ -1,0 +1,24 @@
+In continuum mechanics, the Froude number (Fr) is a dimensionless number defined as the ratio of the flow inertia to the external field (the latter in many applications simply due to gravity). Named after William Froude (;), the Froude number is based on the speed–length ratio which he defined as:
+
+  
+    
+      
+        
+          F
+          r
+        
+        =
+        
+          
+            u
+            
+              g
+              L
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Fr} ={\frac {u}{\sqrt {gL}}}}
+  where u is the local flow velocity, g is the local external field, and L is a characteristic length. The Froude number has some analogy with the Mach number. In theoretical fluid dynamics the Froude number is not frequently considered since usually the equations are considered in the high Froude limit of negligible external field, leading to homogeneous equations that preserve the mathematical aspects. For example, homogeneous Euler equations are conservation equations.
+However, in naval architecture the Froude number is a significant figure used to determine the resistance of a partially submerged object moving through water.

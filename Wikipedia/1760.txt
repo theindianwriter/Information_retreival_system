@@ -1,0 +1,5 @@
+Radiometry is a set of techniques for measuring electromagnetic radiation, including visible light. Radiometric techniques in optics characterize the distribution of the radiation's power in space, as opposed to photometric techniques, which characterize the light's interaction with the human eye. The fundamental difference between radiometry and photometry is that radiometry gives the entire optical radiation spectrum, while photometry is limited to the visible spectrum. Radiometry is distinct from quantum techniques such as photon counting.
+The use of radiometers to determine the temperature of objects and gasses by measuring radiation flux is called pyrometry.  Handheld pyrometer devices are often marketed as infrared thermometers.
+Radiometry is important in astronomy, especially radio astronomy, and plays a significant role in Earth remote sensing. The measurement techniques categorized as radiometry in optics are called photometry in some astronomical applications, contrary to the optics usage of the term.
+Spectroradiometry is the measurement of absolute radiometric quantities in narrow bands of wavelength.
+

@@ -1,0 +1,2 @@
+Aerodynamic heating is the heating of a solid body produced by its high-speed passage through air (or by the passage of air past a static body), whereby its kinetic energy is converted to heat by adiabatic heating, and by skin friction on the surface of the object at a rate that depends on the viscosity and speed of the air. In science and engineering, it is most frequently a concern regarding meteors, atmospheric reentry of spacecraft, and the design of high-speed aircraft.
+

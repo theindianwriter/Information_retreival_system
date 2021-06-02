@@ -1,0 +1,1 @@
+Numerical methods for partial differential equations is the branch of numerical analysis that studies the numerical solution of partial differential equations (PDEs).

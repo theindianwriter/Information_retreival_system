@@ -1,0 +1,7 @@
+Usually, we understand the term capillary bridge as a minimized surface of liquid or membrane, created between two rigid bodies with an arbitrary shape. Capillary bridges also may form between two liquids.  Plateau defined a sequence of capillary shapes known as (1) nodoid with 'neck', (2) catenoid, (3) unduloid with 'neck', (4) cylinder, (5) unduloid with 'haunch' (6) sphere and (7) nodoid with 'haunch'. The presence of capillary bridge, depending on their shapes, can lead to attraction or repulsion between the solid bodies. 
+The simplest cases of them are the axisymmetric ones. We distinguished three important classes of bridging, depending on connected bodies surface shapes:
+
+two planar surfaces (fig.1)  
+planar surface and spherical particle (fig. 2)
+two spherical particles (in general, particles may not be of equal sizes, fig. 3)
+Capillary bridges and their properties may also be influenced by Earth gravity and by properties of the bridged surfaces. The bridging substance may be a liquid or a gas.  The enclosing boundary is called the interface (capillary surface). The interface is characterized by a particular surface tension.

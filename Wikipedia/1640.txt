@@ -1,0 +1,3 @@
+The version history of the mobile operating system iOS, developed by Apple Inc., began with the release of iPhone OS 1 for the original iPhone on June 29, 2007. Since its initial release, it has been used as the operating system for iPhone, iPad, iPod Touch, and HomePod, seeing continuous development since then, resulting in new major releases of the software typically being announced at the annual Apple Worldwide Developers Conference and later released in September, coinciding with the release of new iPhone models. The latest stable version, iOS 14.6, was released on May 24, 2021. The latest beta version is iOS 14.7 Beta 1, released on May 19, 2021.
+Updates can be done over-the-air through settings (since iOS 5), or via the iTunes or Finder applications.
+

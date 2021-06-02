@@ -1,0 +1,2 @@
+A thermographic camera (also called an infrared camera or thermal imaging camera or thermal imager) is a device that creates an image using infrared(IR) radiation, similar to a common camera that forms an image using visible light. Instead of the 400–700 nanometre (nm) range of the visible light camera, infrared cameras are sensitive to wavelengths from about 1,000 nm (1 micrometre or μm) to about 14,000 nm (14 μm). The practice of capturing and analyzing the data they provide is called thermography.
+

@@ -1,0 +1,1 @@
+Wing-shape optimization is a software implementation of shape optimization primarily used for aircraft design.  This allows for engineers to produce more efficient and cheaper aircraft designs.

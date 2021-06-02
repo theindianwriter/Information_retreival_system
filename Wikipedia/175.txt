@@ -1,0 +1,2 @@
+Dimensionless numbers in fluid mechanics are a set of dimensionless quantities that have an important role in analyzing the behavior of fluids. Common examples include the Reynolds or the Mach numbers, which describe as ratios the relative magnitude of fluid and physical system characteristics, such as density, viscosity, speed of sound, flow speed, etc.
+

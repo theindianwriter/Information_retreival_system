@@ -1,0 +1,9 @@
+A composite material (also called a composition material or shortened to composite, which is the common name) is a material which is produced from two or more constituent materials. These constituent materials have notably dissimilar chemical or physical properties and are merged to create a material with properties unlike the individual elements. Within the finished structure, the individual elements remain separate and distinct, distinguishing composites from mixtures and solid solutions.Typical engineered composite materials include:
+
+Reinforced concrete and masonry
+Composite wood such as plywood
+Reinforced plastics, such as fibre-reinforced polymer or fiberglass
+Ceramic matrix composites (composite ceramic and metal matrices)
+Metal matrix composites
+and other advanced composite materialsThere are various reasons where new material can be favoured. Typical examples include materials which are less expensive, lighter, stronger or more durable when compared with common materials.
+More recently researchers have also begun to actively include sensing, actuation, computation and communication into composites, which are known as Robotic Materials.Composite materials are generally used for buildings, bridges, and structures such as boat hulls, swimming pool panels, racing car bodies, shower stalls, bathtubs, storage tanks, imitation granite and cultured marble sinks and countertops.The most advanced examples perform routinely on spacecraft and aircraft in demanding environments.

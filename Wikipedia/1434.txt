@@ -1,0 +1,5 @@
+The Gurney flap (or wickerbill) is a small tab projecting from the trailing edge of a wing. Typically it is set at a right angle to the pressure-side surface of the airfoil
+and projects 1% to 2% of the wing chord.
+This trailing edge device can improve the performance of a simple airfoil to nearly the same level as a complex high-performance design.The device operates by increasing pressure on the pressure side, decreasing pressure on the suction side, and helping the boundary layer flow stay attached all the way to the trailing edge on the suction side of the airfoil.
+Common applications occur in auto racing, helicopter horizontal stabilizers, and aircraft where high lift is essential, such as banner-towing airplanes.It is named for its inventor and developer, American race car driver Dan Gurney.
+

@@ -1,0 +1,2 @@
+The Orr–Sommerfeld equation, in fluid dynamics, is an eigenvalue equation describing the linear two-dimensional modes of disturbance to a viscous parallel flow.  The solution to the Navier–Stokes equations for a parallel, laminar flow can become unstable if certain conditions on the flow are satisfied, and the Orr–Sommerfeld equation determines precisely what the conditions for hydrodynamic stability are.
+The equation is named after William McFadden Orr and Arnold Sommerfeld, who derived it at the beginning of the 20th century.

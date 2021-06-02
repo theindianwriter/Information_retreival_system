@@ -1,0 +1,62 @@
+In mathematics, the Legendre forms of elliptic integrals are a canonical set of three elliptic integrals to which all others may be reduced. Legendre chose the name elliptic integrals because the second kind gives the arc length of an ellipse of unit semi-major axis and eccentricity 
+  
+    
+      
+        
+          
+            k
+          
+        
+      
+    
+    {\displaystyle \scriptstyle {k}}
+   (the ellipse being defined parametrically by 
+  
+    
+      
+        
+          
+            x
+            =
+            
+              
+                1
+                −
+                
+                  k
+                  
+                    2
+                  
+                
+              
+            
+            cos
+            ⁡
+            (
+            t
+            )
+          
+        
+      
+    
+    {\displaystyle \scriptstyle {x={\sqrt {1-k^{2}}}\cos(t)}}
+  , 
+  
+    
+      
+        
+          
+            y
+            =
+            sin
+            ⁡
+            (
+            t
+            )
+          
+        
+      
+    
+    {\displaystyle \scriptstyle {y=\sin(t)}}
+  ).
+In modern times the Legendre forms have largely been supplanted by an alternative canonical set, the Carlson symmetric forms. A more detailed treatment of the Legendre forms is given in the main article on elliptic integrals.

@@ -1,0 +1,2 @@
+Continuous gusts or stochastic gusts are winds that vary randomly in space and time. Models of continuous gusts are used to represent atmospheric turbulence, especially clear air turbulence and turbulent winds in storms. The Federal Aviation Administration (FAA) and the United States Department of Defense provide requirements for the models of continuous gusts used in design and simulation of aircraft.
+

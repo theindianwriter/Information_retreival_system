@@ -1,0 +1,48 @@
+In integral calculus, an elliptic integral is one of a number of related functions defined as the value of certain integrals.  Originally, they arose in connection with the problem of finding the arc length of an ellipse and were first studied by Giulio Fagnano and Leonhard Euler (c. 1750).  Modern mathematics defines an "elliptic integral" as any function f which can be expressed in the form
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          ∫
+          
+            c
+          
+          
+            x
+          
+        
+        R
+        
+          (
+          
+            t
+            ,
+            
+              
+                P
+                (
+                t
+                )
+              
+            
+          
+          )
+        
+        
+        
+          d
+        
+        t
+        ,
+      
+    
+    {\displaystyle f(x)=\int _{c}^{x}R\left(t,{\sqrt {P(t)}}\right)\,\mathrm {d} t,}
+  where R is a rational function of its two arguments, P is a polynomial of degree 3 or 4 with no repeated roots, and c is a constant.
+In general, integrals in this form cannot be expressed in terms of elementary functions. Exceptions to this general rule are when P has repeated roots, or when R(x,y) contains no odd powers of y.  However, with the appropriate reduction formula, every elliptic integral can be brought into a form that involves integrals over rational functions and the three Legendre canonical forms (i.e. the elliptic integrals of the first, second and third kind).
+Besides the Legendre form given below, the elliptic integrals may also be expressed in Carlson symmetric form. Additional insight into the theory of the elliptic integral may be gained through the study of the Schwarz–Christoffel mapping. Historically, elliptic functions were discovered as inverse functions of elliptic integrals.

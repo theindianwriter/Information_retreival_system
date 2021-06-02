@@ -1,0 +1,2 @@
+An axial turbine is a turbine in which the flow of the working fluid is parallel to the shaft, as opposed to radial turbines, where the fluid runs around a shaft, as in a watermill. An axial turbine has a similar construction as an axial compressor, but it operates in the reverse, converting flow of the fluid into rotating mechanical energy. 
+A set of static guide vanes or nozzle vanes accelerates and adds swirl to the fluid and directs it to the next row of turbine blades mounted on a turbine rotor.

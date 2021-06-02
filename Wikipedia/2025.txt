@@ -1,0 +1,5 @@
+Wind turbine design is the process of defining the form and specifications of a wind turbine to extract energy from the wind.
+A wind turbine installation consists of the necessary systems needed to capture the wind's energy, point the turbine into the wind, convert mechanical rotation into electrical power, and other systems to start, stop, and control the turbine.
+This article covers the design of horizontal-axis wind turbines (HAWT) since the majority of commercial turbines use this design.
+In 1919, the physicist Albert Betz showed that for a hypothetical ideal wind-energy extraction machine, the fundamental laws of conservation of mass and energy allowed no more than 16/27 (59.3%) of the kinetic energy of the wind to be captured. This Betz' law limit can be approached by modern turbine designs which may reach 70 to 80% of this theoretical limit.
+In addition to aerodynamic design of the blades, design of a complete wind power system must also address design of the hub, controls, generator, supporting structure and foundation. Further design questions arise when integrating wind turbines into electrical power grids.

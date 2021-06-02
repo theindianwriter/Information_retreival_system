@@ -1,0 +1,2 @@
+A solid oxide fuel cell (or SOFC) is an electrochemical conversion device that produces electricity directly from oxidizing a fuel. Fuel cells are characterized by their electrolyte material; the SOFC has a solid oxide or ceramic electrolyte.
+Advantages of this class of fuel cells include high combined heat and power efficiency, long-term stability, fuel flexibility, low emissions, and relatively low cost. The largest disadvantage is the high operating temperature which results in longer start-up times and mechanical and chemical compatibility issues.

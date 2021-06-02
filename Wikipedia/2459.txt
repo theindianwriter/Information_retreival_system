@@ -1,0 +1,2 @@
+In mathematics, potential flow around a circular cylinder is a classical solution for the flow of an inviscid, incompressible fluid around a cylinder that is transverse to the flow. Far from the cylinder, the flow is unidirectional and uniform. The flow has no vorticity and thus the velocity field is irrotational and can be modeled as a potential flow. Unlike a real fluid, this solution indicates a net zero drag on the body, a result known as d'Alembert's paradox.
+

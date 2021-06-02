@@ -1,0 +1,4 @@
+A field-reversed configuration (FRC) is a type of plasma device studied as a means of producing nuclear fusion. It confines a plasma on closed magnetic field lines without a central penetration. In an FRC, the plasma has the form of a self-stable torus, similar to a smoke ring.
+FRCs are closely related to another self-stable magnetic confinement fusion device, the spheromak. Both are considered part of the compact toroid class of fusion devices. FRCs normally have a plasma that is more elongated than spheromaks, having the overall shape of a hollowed out sausage rather than the roughly spherical spheromak.
+FRCs were a major area of research in the 1960s and into the 1970s, but had problems scaling up into practical fusion triple products. Interest returned in the 1990s and as of 2019, FRCs were an active research area.
+

@@ -1,0 +1,24 @@
+Fracture mechanics is the field of mechanics concerned with the study of the propagation of cracks in materials. It uses methods of analytical solid mechanics to calculate the driving force on a crack and those of experimental solid mechanics to characterize the material's resistance to fracture.
+Theoretically, the stress ahead of a sharp crack tip becomes infinite and cannot be used to describe the state around a crack. Fracture mechanics is used to characterise the loads on a crack, typically using a single parameter to describe the complete loading state at the crack tip. A number of different parameters have been developed. When the plastic zone at the tip of the crack is small relative to the crack length the stress state at the crack tip is the result of elastic forces within the material and is termed linear elastic fracture mechanics (LEFM) and can be characterised using the stress intensity factor 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  . Although the load on a crack can be arbitrary, in 1957 G. Irwin found any state could be reduced to a combination of three independent stress intensity factors:
+
+Mode I – Opening mode (a tensile stress normal to the plane of the crack),
+Mode II – Sliding mode (a shear stress acting parallel to the plane of the crack and perpendicular to the crack front), and
+Mode III – Tearing mode (a shear stress acting parallel to the plane of the crack and parallel to the crack front).When the size of the plastic zone at the crack tip is too large, elastic-plastic fracture mechanics can be used with parameters such as the J-integral or the crack tip opening displacement.
+The characterising parameter describes the state of the crack tip which can then be related to experimental conditions to ensure similitude. Crack growth occurs when the parameters typically exceed certain critical values. Corrosion may cause a crack to slowly grow when the stress corrosion stress intensity threshold is exceeded. Similarly, small flaws may result in crack growth when subjected to cyclic loading.  Known as fatigue, it was found that for long cracks, the rate of growth is largely governed by the range of the stress intensity 
+  
+    
+      
+        Δ
+        K
+      
+    
+    {\displaystyle \Delta K}
+   experienced by the crack due to the applied loading. Fast fracture will occur when the stress intensity exceeds the fracture toughness of the material. The prediction of crack growth is at the heart of the damage tolerance mechanical design discipline.

@@ -1,0 +1,95 @@
+Euler's critical load is the compressive load at which a slender column will suddenly bend or buckle. It is given by the formula:
+
+  
+    
+      
+        
+          P
+          
+            c
+            r
+          
+        
+        =
+        
+          
+            
+              
+                π
+                
+                  2
+                
+              
+              E
+              I
+            
+            
+              (
+              K
+              L
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle P_{cr}={\frac {\pi ^{2}EI}{(KL)^{2}}}}
+  where
+
+  
+    
+      
+        
+          P
+          
+            c
+            r
+          
+        
+      
+    
+    {\displaystyle P_{cr}}
+  , Euler's critical load (longitudinal compression load on column),
+
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+  , Young's modulus of the column material,
+
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+  , minimum area moment of inertia of the cross section of the column,
+
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  , unsupported length of column,
+
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  , column effective length factorThis formula was derived in 1757 by the Swiss mathematician Leonhard Euler. The column will remain straight for loads less than the critical load. The critical load is the greatest load that will not cause lateral deflection (buckling). For loads greater than the critical load, the column will deflect laterally. The critical load puts the column in a state of unstable equilibrium. A load beyond the critical load causes the column to fail by buckling. As the load is increased beyond the critical load the lateral deflections increase, until it may fail in other modes such as yielding of the material. Loading of columns beyond the critical load are not addressed in this article.
+Around 1900, J. B. Johnson showed that at low slenderness ratios an alternative formula should be used.
+

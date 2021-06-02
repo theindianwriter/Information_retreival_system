@@ -1,0 +1,3 @@
+Compressor characteristic is a mathematical curve that shows the behaviour of a fluid going through a dynamic compressor.  It shows changes in fluid pressure, temperature, entropy, flow rate etc.) with the compressor operating at different speeds. 
+A compressor increases the pressure of a fluid passing through it, so that the exit pressure is higher than the inlet pressure. Due to this property, compressors are used in a wide range of machines, such as refrigerators, cars, jet engines and industrial processes.
+Compressor characteristic curves are plotted between various parameters and some are as follows

@@ -1,0 +1,2 @@
+The United States Air Force Stability and Control Digital DATCOM is a computer program that implements the methods contained in the USAF Stability and Control DATCOM to calculate the static stability, control and dynamic derivative characteristics of fixed-wing aircraft.  Digital DATCOM requires an input file containing a geometric description of an aircraft, and outputs its corresponding dimensionless stability derivatives according to the specified flight conditions.  The values obtained can be used to calculate meaningful aspects of flight dynamics.
+

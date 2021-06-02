@@ -1,0 +1,3 @@
+In fluid dynamics, the process of a laminar flow becoming turbulent is known as laminar–turbulent transition. The main parameter characterizing transition is the Reynolds number.
+Transition is often described as a process proceeding through a series of stages.  "Transitional flow" can refer to transition in either direction, that is laminar–turbulent transitional or turbulent–laminar transitional flow.
+The process applies to any fluid flow, and is most often used in the context of boundary layers.

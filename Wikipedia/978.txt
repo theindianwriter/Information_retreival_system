@@ -1,0 +1,13 @@
+Shocks and discontinuities are transition layers where the plasma properties change from one equilibrium state to another. The relation between the plasma properties on both sides of a shock or a discontinuity can be obtained from the conservative form of the magnetohydrodynamic (MHD) equations, assuming conservation of mass, momentum, energy and of 
+  
+    
+      
+        ∇
+        ⋅
+        
+          B
+        
+      
+    
+    {\displaystyle \nabla \cdot \mathbf {B} }
+  .

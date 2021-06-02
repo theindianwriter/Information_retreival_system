@@ -1,0 +1,3 @@
+Hele-Shaw flow is defined as Stokes flow between two parallel flat plates separated by an infinitesimally small gap, named after Henry Selby Hele-Shaw, who studied the problem in 1898. Various problems in fluid mechanics can be approximated to Hele-Shaw flows and thus the research of these flows is of importance. Approximation to Hele-Shaw flow is specifically important to micro-flows. This is due to manufacturing techniques, which creates shallow planar configurations, and the typically low Reynolds numbers of micro-flows.
+The governing equation of Hele-Shaw flows is identical to that of the inviscid potential flow and to the flow of fluid through a porous medium (Darcy's law). It thus permits visualization of this kind of flow in two dimensions.
+

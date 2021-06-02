@@ -1,0 +1,2 @@
+A mechanical joint is a section of a machine which is used to connect one or more mechanical part to another. Mechanical joints may be temporary or permanent, most types are designed to be disassembled. Most mechanical joints are designed to allow relative movement of these mechanical parts of the machine in one degree of freedom, and restrict movement in one or more others.
+

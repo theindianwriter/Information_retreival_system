@@ -1,0 +1,52 @@
+In dimensional analysis, the Strouhal number (St, or sometimes Sr to avoid the conflict with the Stanton number) is a dimensionless number describing oscillating flow mechanisms. The parameter is named after Vincenc Strouhal, a Czech physicist who experimented in 1878 with wires experiencing vortex shedding and singing in the wind. The Strouhal number is an integral part of the fundamentals of fluid mechanics.
+The Strouhal number is often given as
+
+  
+    
+      
+        
+          St
+        
+        =
+        
+          
+            
+              f
+              L
+            
+            U
+          
+        
+        ,
+      
+    
+    {\displaystyle {\text{St}}={\frac {fL}{U}},}
+  where f is the frequency of vortex shedding, L is the characteristic length (for example, hydraulic diameter or the airfoil thickness) and U is the flow velocity. In certain cases, like heaving (plunging) flight, this characteristic length is the amplitude of oscillation. This selection of characteristic length can be used to present a distinction between Strouhal number and reduced frequency:
+
+  
+    
+      
+        
+          St
+        
+        =
+        
+          
+            
+              k
+              A
+            
+            
+              π
+              c
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\text{St}}={\frac {kA}{\pi c}},}
+  where k is the reduced frequency, and A is amplitude of the heaving oscillation.
+
+For large Strouhal numbers (order of 1), viscosity dominates fluid flow, resulting in a collective oscillating movement of the fluid "plug". For low Strouhal numbers (order of 10−4 and below), the high-speed, quasi-steady-state portion of the movement dominates the oscillation. Oscillation at intermediate Strouhal numbers is characterized by the buildup and rapidly subsequent shedding of vortices.For spheres in uniform flow in the Reynolds number range of 8×102 < Re < 2×105 there co-exist two values of the Strouhal number.  The lower frequency is attributed to the large-scale instability of the wake, is independent of the Reynolds number Re and is approximately equal to 0.2.  The higher-frequency Strouhal number is caused by small-scale instabilities from the separation of the shear layer.
+

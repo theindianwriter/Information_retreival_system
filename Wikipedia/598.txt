@@ -1,0 +1,47 @@
+The principal components of a collection of points in a real coordinate space are a sequence of 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   unit vectors, where the 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  -th vector is the direction of a line that best fits the data while being orthogonal to the first 
+  
+    
+      
+        i
+        −
+        1
+      
+    
+    {\displaystyle i-1}
+   vectors. Here, a best-fitting line is defined as one that minimizes the average squared distance from the points to the line. These directions constitute an orthonormal basis in which different individual dimensions of the data are linearly uncorrelated. Principal component analysis (PCA) is the process of computing the principal components and using them to perform a change of basis on the data, sometimes using only the first few principal components and ignoring the rest.
+PCA is used in exploratory data analysis and for making predictive models. It is commonly used for dimensionality reduction by projecting each data point onto only the first few principal components to obtain lower-dimensional data while preserving as much of the data's variation as possible. The first principal component can equivalently be defined as a direction that maximizes the variance of the projected data. The 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  -th principal component can be taken as a direction orthogonal to the first 
+  
+    
+      
+        i
+        −
+        1
+      
+    
+    {\displaystyle i-1}
+   principal components that maximizes the variance of the projected data.
+From either objective, it can be shown that the principal components are eigenvectors of the data's covariance matrix. Thus, the principal components are often computed by eigendecomposition of the data covariance matrix or singular value decomposition of the data matrix. PCA is the simplest of the true eigenvector-based multivariate analyses and is closely related to factor analysis. Factor analysis typically incorporates more domain specific assumptions about the underlying structure and solves eigenvectors of a slightly different matrix. PCA is also related to canonical correlation analysis (CCA). CCA defines coordinate systems that optimally describe the cross-covariance between two datasets while PCA defines a new orthogonal coordinate system that optimally describes variance in a single dataset. Robust and L1-norm-based variants of standard PCA have also been proposed.

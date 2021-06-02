@@ -1,0 +1,570 @@
+The Rankine–Hugoniot conditions, also referred to as Rankine–Hugoniot jump conditions or Rankine–Hugoniot relations, describe the relationship between the states on both sides of a shock wave or a combustion wave (deflagration or detonation) in a one-dimensional flow in fluids or a one-dimensional deformation in solids. They are named in recognition of the work carried out by Scottish engineer and physicist William John Macquorn Rankine and French engineer Pierre Henri Hugoniot.In a coordinate system that is moving with the discontinuity, the Rankine–Hugoniot conditions can be expressed as:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  ρ
+                  
+                    1
+                  
+                
+                
+                
+                  u
+                  
+                    1
+                  
+                
+              
+              
+                
+                =
+                
+                  ρ
+                  
+                    2
+                  
+                
+                
+                
+                  u
+                  
+                    2
+                  
+                
+                ≡
+                m
+              
+              
+              
+                
+                  Conservation of mass
+                
+              
+            
+            
+              
+                
+                  ρ
+                  
+                    1
+                  
+                
+                
+                
+                  u
+                  
+                    1
+                  
+                  
+                    2
+                  
+                
+                +
+                
+                  p
+                  
+                    1
+                  
+                
+              
+              
+                
+                =
+                
+                  ρ
+                  
+                    2
+                  
+                
+                
+                
+                  u
+                  
+                    2
+                  
+                  
+                    2
+                  
+                
+                +
+                
+                  p
+                  
+                    2
+                  
+                
+              
+              
+              
+                
+                  Conservation of momentum
+                
+              
+            
+            
+              
+                
+                  h
+                  
+                    1
+                  
+                
+                +
+                
+                  
+                    1
+                    2
+                  
+                
+                
+                  u
+                  
+                    1
+                  
+                  
+                    2
+                  
+                
+              
+              
+                
+                =
+                
+                  h
+                  
+                    2
+                  
+                
+                +
+                
+                  
+                    1
+                    2
+                  
+                
+                
+                  u
+                  
+                    2
+                  
+                  
+                    2
+                  
+                
+              
+              
+              
+                
+                  Conservation of energy
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\rho _{1}\,u_{1}&=\rho _{2}\,u_{2}\equiv m&&{\text{Conservation of mass}}\\\rho _{1}\,u_{1}^{2}+p_{1}&=\rho _{2}\,u_{2}^{2}+p_{2}&&{\text{Conservation of momentum}}\\h_{1}+{\frac {1}{2}}u_{1}^{2}&=h_{2}+{\frac {1}{2}}u_{2}^{2}&&{\text{Conservation of energy}}\end{aligned}}}
+  where m is the mass flow rate per unit area, ρ1 and ρ2 are the mass density of the fluid upstream and downstream of the wave, u1 and u2 are the fluid velocity upstream and downstream of the wave, p1 and p2 are the pressures in the two regions, and h1 and h2 are the specific (with the sense of per unit mass) enthalpies in the two regions. If in addition, the flow is reactive, then the species conservation equations demands that
+
+  
+    
+      
+        
+          ω
+          
+            i
+            ,
+            1
+          
+        
+        =
+        
+          ω
+          
+            i
+            ,
+            2
+          
+        
+        =
+        0
+        ,
+        
+        i
+        =
+        1
+        ,
+        2
+        ,
+        3
+        ,
+        .
+        .
+        .
+        N
+        ,
+        
+        
+          Conservation of species
+        
+      
+    
+    {\displaystyle \omega _{i,1}=\omega _{i,2}=0,\quad i=1,2,3,...N,\qquad {\text{Conservation of species}}}
+  to vanish both upstream and downstream of the discontinuity. Here, 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   is the mass production rate of the ith species of total N species involved in the reaction. Combining conservation of mass and momentum gives us
+
+  
+    
+      
+        
+          
+            
+              
+                p
+                
+                  2
+                
+              
+              −
+              
+                p
+                
+                  1
+                
+              
+            
+            
+              1
+              
+                /
+              
+              
+                ρ
+                
+                  2
+                
+              
+              −
+              1
+              
+                /
+              
+              
+                ρ
+                
+                  1
+                
+              
+            
+          
+        
+        =
+        −
+        
+          m
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\frac {p_{2}-p_{1}}{1/\rho _{2}-1/\rho _{1}}}=-m^{2}}
+  which defines a straight line known as the Rayleigh line, named after Lord Rayleigh, that has a negative slope (since 
+  
+    
+      
+        
+          m
+          
+            2
+          
+        
+      
+    
+    {\displaystyle m^{2}}
+   is always positive) in the 
+  
+    
+      
+        p
+        −
+        
+          ρ
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle p-\rho ^{-1}}
+   plane. Using the Rankine–Hugoniot equations for the conservation of mass and momentum to eliminate u1 and u2, the equation for the conservation of energy can be expressed as the Hugoniot equation:
+
+  
+    
+      
+        
+          h
+          
+            2
+          
+        
+        −
+        
+          h
+          
+            1
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        
+        
+          (
+          
+            
+              
+                1
+                
+                  ρ
+                  
+                    2
+                  
+                
+              
+            
+            +
+            
+              
+                1
+                
+                  ρ
+                  
+                    1
+                  
+                
+              
+            
+          
+          )
+        
+        
+        (
+        
+          p
+          
+            2
+          
+        
+        −
+        
+          p
+          
+            1
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle h_{2}-h_{1}={\frac {1}{2}}\,\left({\frac {1}{\rho _{2}}}+{\frac {1}{\rho _{1}}}\right)\,(p_{2}-p_{1}).}
+  The inverse of the density can also be expressed as the specific volume, 
+  
+    
+      
+        v
+        =
+        1
+        
+          /
+        
+        ρ
+      
+    
+    {\displaystyle v=1/\rho }
+  . Along with these, one has to specify the relation between the upstream and downstream equation of state
+
+  
+    
+      
+        f
+        (
+        
+          p
+          
+            1
+          
+        
+        ,
+        
+          ρ
+          
+            1
+          
+        
+        ,
+        
+          T
+          
+            1
+          
+        
+        ,
+        
+          Y
+          
+            i
+            ,
+            1
+          
+        
+        )
+        =
+        f
+        (
+        
+          p
+          
+            2
+          
+        
+        ,
+        
+          ρ
+          
+            2
+          
+        
+        ,
+        
+          T
+          
+            2
+          
+        
+        ,
+        
+          Y
+          
+            i
+            ,
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle f(p_{1},\rho _{1},T_{1},Y_{i,1})=f(p_{2},\rho _{2},T_{2},Y_{i,2})}
+  where 
+  
+    
+      
+        
+          Y
+          
+            i
+          
+        
+      
+    
+    {\displaystyle Y_{i}}
+   is the mass fraction of the species. Finally, the calorific equation of state 
+  
+    
+      
+        h
+        =
+        h
+        (
+        p
+        ,
+        ρ
+        ,
+        
+          Y
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle h=h(p,\rho ,Y_{i})}
+   is assumed to be known, i.e.,
+
+  
+    
+      
+        h
+        (
+        
+          p
+          
+            1
+          
+        
+        ,
+        
+          ρ
+          
+            1
+          
+        
+        ,
+        
+          Y
+          
+            i
+            ,
+            1
+          
+        
+        )
+        =
+        h
+        (
+        
+          p
+          
+            2
+          
+        
+        ,
+        
+          ρ
+          
+            2
+          
+        
+        ,
+        
+          Y
+          
+            i
+            ,
+            2
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle h(p_{1},\rho _{1},Y_{i,1})=h(p_{2},\rho _{2},Y_{i,2}).}

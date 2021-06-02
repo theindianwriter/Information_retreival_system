@@ -1,0 +1,6 @@
+The fuel economy in aircraft is the measure of the transport energy efficiency of aircraft.
+Efficiency is increased with better aerodynamics and by reducing weight, and with improved engine BSFC and propulsive efficiency or TSFC.
+Endurance and range can be maximized with the optimum airspeed, and economy is better at higher altitudes. An airline efficiency depends on its fleet fuel burn, seating density, air cargo and passenger load factor, while operational procedures like maintenance and routing can save fuel.
+Average fuel burn of new aircraft fell 45% from 1968 to 2014, a compounded annual reduction 1.3% with a variable reduction rate.
+In 2018, CO₂ emissions totalled 747 million tonnes for passenger transport, for 8.5 trillion revenue passenger kilometres (RPK), giving an average of 88 gram CO₂ per RPK. A 88 gCO₂/km represents 28 g of fuel per km, or a 3.5 L/100 km (67 mpg‑US) fuel consumption.
+New technology can reduce engine fuel consumption, like higher pressure and bypass ratios, geared turbofans, open rotors, hybrid electric or fully electric propulsion; and airframe efficiency with retrofits, better materials and systems and  advanced aerodynamics.

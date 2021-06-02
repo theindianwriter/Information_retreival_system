@@ -1,0 +1,5 @@
+The Kirchhoff–Love theory of plates is a two-dimensional mathematical model that is used to determine the stresses and deformations in thin plates subjected to forces and moments. This theory is an extension of Euler-Bernoulli beam theory and was developed in 1888 by Love using assumptions proposed by Kirchhoff. The theory assumes that a mid-surface plane can be used to represent a three-dimensional plate in two-dimensional form.
+The following kinematic assumptions that are made in this theory:
+straight lines normal to the mid-surface remain straight after deformation
+straight lines normal to the mid-surface remain normal to the mid-surface after deformation
+the thickness of the plate does not change during a deformation.

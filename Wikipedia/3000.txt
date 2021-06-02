@@ -1,0 +1,116 @@
+This page describes some parameters used to characterize the properties of the thermal boundary layer formed by a heated (or cooled) fluid moving along a heated (or cooled) wall.  In many ways, the thermal boundary layer description parallels the velocity (momentum) boundary layer description first conceptualized by Ludwig Prandtl.  Consider a fluid of uniform temperature 
+  
+    
+      
+        
+          T
+          
+            o
+          
+        
+      
+    
+    {\displaystyle T_{o}}
+   and velocity 
+  
+    
+      
+        
+          u
+          
+            o
+          
+        
+      
+    
+    {\displaystyle u_{o}}
+   impinging onto a stationary plate uniformly heated to a temperature 
+  
+    
+      
+        
+          T
+          
+            s
+          
+        
+      
+    
+    {\displaystyle T_{s}}
+  .  Assume the flow and the plate are semi-infinite in the positive/negative direction perpendicular to the 
+  
+    
+      
+        x
+        −
+        y
+      
+    
+    {\displaystyle x-y}
+   plane.  As the fluid flows along the wall, the fluid at the wall surface satisfies a no-slip boundary condition and has zero velocity, but as you move away from the wall, the velocity of the flow asymptotically approaches the free stream velocity 
+  
+    
+      
+        
+          u
+          
+            0
+          
+        
+      
+    
+    {\displaystyle u_{0}}
+  .  The temperature at the solid wall is 
+  
+    
+      
+        
+          T
+          
+            s
+          
+        
+      
+    
+    {\displaystyle T_{s}}
+   and gradually changes to 
+  
+    
+      
+        
+          T
+          
+            o
+          
+        
+      
+    
+    {\displaystyle T_{o}}
+   as one moves toward the free stream of the fluid.  It is impossible to define a sharp point at which the thermal boundary layer fluid or the velocity boundary layer fluid becomes the free stream, yet these layers have a well-defined characteristic thickness given by 
+  
+    
+      
+        
+          δ
+          
+            T
+          
+        
+      
+    
+    {\displaystyle \delta _{T}}
+   and 
+  
+    
+      
+        
+          δ
+          
+            v
+          
+        
+      
+    
+    {\displaystyle \delta _{v}}
+  .  The parameters below provide a useful definition of this characteristic, measurable thickness for the thermal boundary layer.  Also included in this boundary layer description are some parameters useful in describing the shape of the thermal boundary layer.
+

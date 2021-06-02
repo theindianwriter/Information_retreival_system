@@ -1,0 +1,2 @@
+In fluid dynamics, aerodynamic potential flow codes or panel codes are used to determine the fluid velocity, and subsequently the pressure distribution, on an object.  This may be a simple two-dimensional object, such as a circle or wing, or it may be a three-dimensional vehicle.
+A series of singularities as sources, sinks, vortex points and doublets are used to model the panels and wakes.  These codes may be valid at subsonic and supersonic speeds.

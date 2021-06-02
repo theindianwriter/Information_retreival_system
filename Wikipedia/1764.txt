@@ -1,0 +1,16 @@
+Stokes flow (named after George Gabriel Stokes), also named creeping flow or creeping motion, is a type of fluid flow where advective inertial forces are small compared with viscous forces. The Reynolds number is low, i.e. 
+  
+    
+      
+        
+          R
+          e
+        
+        ≪
+        1
+      
+    
+    {\displaystyle \mathrm {Re} \ll 1}
+  . This is a typical situation in flows where the fluid velocities are very slow, the viscosities are very large, or the length-scales of the flow are very small. Creeping flow was first studied to understand lubrication. In nature this type of flow occurs in the swimming of microorganisms and sperm and the flow of lava. In technology, it occurs in paint, MEMS devices, and in the flow of viscous polymers generally.
+The equations of motion for Stokes flow, called the Stokes equations, are a linearization of the Navier–Stokes equations, and thus can be solved by a number of well-known methods for linear differential equations.  The primary Green's function of Stokes flow is the Stokeslet,  which  is associated with a singular point force embedded in a Stokes  flow. From  its  derivatives, other fundamental solutions can be obtained. The Stokeslet was first derived by the Nobel Laureate Hendrik Lorentz, as far back as 1896.  Despite its name, Stokes never knew about the Stokeslet; the name was coined by Hancock in 1953.  The closed-form fundamental solutions for the generalized unsteady Stokes and Oseen flows associated with arbitrary time-dependent translational and rotational motions have been derived for the Newtonian and micropolar fluids.
+

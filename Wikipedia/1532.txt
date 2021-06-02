@@ -1,0 +1,37 @@
+Standard wind tunnel models, also known as reference models, calibration models (French: maquettes d'étalonnage) or test check-standards are objects of relatively simple and precisely defined shapes, having known  aerodynamic characteristics, that are tested in wind tunnels. Standard models are used in order to verify, by comparison of wind tunnel test results with previously published results, the complete measurement chain in a wind tunnel, including wind tunnel structure, quality of the airstream, model positioning, transducers and force balances, data acquisition system and data reduction software.More specifically, standard wind tunnel models are used for:
+
+confirmation of the reliability of the data from a new wind tunnel by comparison with results from other wind tunnel facilities;
+providing baselines for correlation of results from different wind tunnels;
+checkouts of data repeatability over time;
+checkouts of data repeatability after repairs or modifications of the wind tunnel structure;
+assessment of the wall interference effects;
+identification of problems and faults in the operation of a wind tunnel;
+verification of new measurement techniques or devices;
+training of wind tunnel personnel.Besides, results from wind tunnel tests of standard models are used as test cases for verification of computational-fluid-dynamics  (CFD) computer codes.
+In most wind tunnels, standard models are tested during the commissioning and calibration of the facility. 
+This sometimes has an unfortunate effect that the test results are not as good as they can be,
+because the wind tunnel and its measurement system have not yet been optimally tuned at the time of the test. 
+However, some laboratories
+have adopted the practice of periodical testing of a standard model
+every couple of years in order to provide a continued confidence in the 
+reliability of measurements in their wind tunnels 
+.Standard wind tunnel models are usually (but not always) intended for one of the basic wind tunnel
+measurement types, such as the measurement of forces and moments with force balances or measurements of pressure distribution. Results of wind tunnel tests of these models  are generally published in the form of nondimensional aerodynamic coefficients (thus being made independent of model size) and made
+available to the wind-tunnel community, often in review reports containing inter-facility comparisons of data, discussing observed scatter of results, different testing conditions, production differences between models etc.
+As the majority of wind tunnel tests is related to aeronautics, most
+standard wind tunnel models resemble simplified forms of wings, airplanes or missiles.  
+Such are, for static tests:  NACA 0012 and CLARK Y
+(2D wing-segment models with typical airfoils), AGARD-B / AGARD-C 
+(generic delta-wing-airplane shapes), 
+ONERA-M (a generic transport-airplane shape), HB-2 (Hypervelocity ballistic model 2, a shape similar to a reentry-body). For dynamic tests, the often-used standard models are: SDM (Standard dynamic model, a generic fighter-like airplane shape somewhat similar to F-16)), 
+BFM (Basic finner model, a generic conical-cylindrical missile with four fins at the rear end) and MBFM (Modified basic finner model). A number of other standard models exists as well.
+With the increased use of wind tunnels in the testing of road vehicles, several standard
+models of generic car shapes were defined., such as the 
+Ahmed body
+,  MIRA reference car
+, etc.
+Some wind tunnel laboratories perform periodical checkouts using internally defined standard models
+that are selected from the repository of models previously tested in the facilityGeometry of a standard wind tunnel model is defined relative to some easily identified
+parameter (see figure), e.g. body diameter or wing chord. The geometry is published by the institution proposing the model. Beside the model itself, a standard model support, such as a sting, to be used with the model, is usually defined. An actual model is built to a size suitable for the size of a specific wind tunnel test section, in particular taking care that the frontal blockage of the model (the ratio of the model cross-section area to wind tunnel test section area) is kept well below 1% (except for wall-interference research where the models may be larger).
+In order to eliminate the effects of production differences between models in inter-facility comparisons, sometimes the same physical standard model is tested in several wind tunnels 
+

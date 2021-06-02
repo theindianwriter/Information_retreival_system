@@ -1,0 +1,14 @@
+Structural elements are used in structural analysis to split a complex structure into simple elements. Within a structure, an element cannot be broken down (decomposed) into parts of different kinds (e.g., beam or column).Structural elements can be lines, surfaces or volumes.Line elements:
+
+Rod - axial loads
+Beam - axial and bending loads
+Struts or Compression members- compressive loads
+Ties, Tie rods, eyebars, guy-wires, suspension cables, or wire ropes - tension loadsSurface elements:
+
+membrane - in-plane loads only
+shell - in plane and bending moments
+Concrete slab
+deck
+shear panel - shear loads onlyVolumes:
+
+Axial, shear and bending loads for all three dimensions

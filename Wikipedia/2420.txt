@@ -1,0 +1,1 @@
+Hunting oscillation is a self-oscillation, usually unwanted, about an equilibrium. The expression came into use in the 19th century and describes how a system "hunts" for equilibrium. The expression is used to describe phenomena in such diverse fields as electronics, aviation, biology, and railway engineering.

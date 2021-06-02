@@ -1,0 +1,5 @@
+The General Electric Passport is a turbofan developed by GE Aviation for large business jets.
+It was selected in 2010 to power the Bombardier Global 7500/8000, first ran on June 24, 2013 and first flew in 2015.
+It was certified in April 2016 and powered the Global 7500 first flight on November 4, 2016, before its 2018 introduction.
+It produces 14,000 to 20,000 lbf (62 to 89 kN) of thrust, a range previously covered by the General Electric CF34.
+A smaller scaled CFM LEAP, it is a twin-spool axial engine with a 5.6:1 bypass ratio and a 45:1 overall pressure ratio and is noted for its large one-piece 52 in (130 cm) fan 18-blade titanium blisk.

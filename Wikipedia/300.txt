@@ -1,0 +1,21 @@
+The shear viscosity (or viscosity, in short) of a fluid is a material property that describes the friction between internal neighboring fluid surfaces (or sheets) flowing with different fluid velocities. This friction is the effect of (linear) momentum exchange caused by molecules with sufficient energy to move (or "to jump") between these fluid sheets due to fluctuations in their motion. The viscosity is not a material constant, but a material property that depends on temperature, pressure, fluid mixture composition, local velocity variations. This functional relationship is described by a mathematical viscosity model called a constitutive equation which is usually far more complex than the defining equation of shear viscosity. One such complicating feature is the relation between the viscosity model for a pure fluid and the model for a fluid mixture which is called mixing rules. When scientists and engineers use new arguments or theories to develop a new viscosity model, instead of improving the reigning model, it may lead to the first model in a new class of models. This article will display one or two representative models for different classes of viscosity models, and these classes are:
+
+Elementary kinetic theory and simple empirical models - viscosity for dilute gas with nearly spherical molecules
+Power series - simplest approach after dilute gas
+Equation of state analogy between PVT and T
+  
+    
+      
+        η
+      
+    
+    {\displaystyle \eta }
+  P
+Corresponding state model - scaling a variable with its value at the critical point
+Friction force theory - internal sliding surface analogy to a sliding box on an inclined surface
+Multi- and one-parameter version of friction force theory
+Transition state analogy - molecular energy needed to squeeze into a vacancy analogous to molecules locking into each other in a chemical reaction
+Free volume theory - molecular energy needed to jump into a vacant position in the neighboring surface
+Significant structure theory - based on Eyring's concept of liquid as a blend of solid-like and gas-like behavior / featuresSelected contributions from these development directions is displayed in the following sections. This means that some known contributions of research and development directions are not included. For example, is the group contribution method applied to a shear viscosity model not displayed. Even though it is an important method, it is thought to be a method for parameterization of a selected viscosity model, rather than a viscosity model in itself.
+The microscopic or molecular origin of fluids means that transport coefficients like viscosity can be calculated by time correlations which are valid for both gases and liquids, but it is computer intensive calculations. Another approach is the Boltzmann equation which describes the statistical behaviour of a thermodynamic system not in a state of equilibrium. It can be used to determine how physical quantities change, such as heat energy and momentum, when a fluid is in transport, but it is computer intensive simulations.
+From Boltzmann's equation one may also analytical derive (analytical) mathematical models for properties characteristic to fluids such as viscosity, thermal conductivity, and electrical conductivity (by treating the charge carriers in a material as a gas). See also convection–diffusion equation. The mathematics is so complicated for polar and non-spherical molecules that it is very difficult to get practical models for viscosity. The purely theoretical approach will therefore be left out for the rest of this article, except for some visits related to dilute gas and significant structure theory.

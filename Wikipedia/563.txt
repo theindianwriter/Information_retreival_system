@@ -1,0 +1,2 @@
+P-factor, also known as asymmetric blade effect and asymmetric disc effect, is an aerodynamic phenomenon experienced by a moving propeller, where the propeller's center of thrust moves off-center when the aircraft is at a high angle of attack. This shift in the location of the center of thrust will exert a yawing moment on the aircraft, causing it to yaw slightly to one side. A rudder input is required to counteract the yawing tendency.
+

@@ -1,0 +1,3 @@
+This glossary defines terms that are used in the document "Defining Video Quality Requirements: A Guide for Public Safety", developed by the Video Quality in Public Safety (VQIPS) Working Group.  It contains terminology and explanations of concepts relevant to the video
+industry. The purpose of the glossary is to inform the reader of commonly used vocabulary terms in the
+video domain. This glossary was compiled from various industry sources.

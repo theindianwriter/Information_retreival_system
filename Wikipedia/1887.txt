@@ -1,0 +1,4 @@
+A vibrating structure gyroscope, defined by the IEEE as a Coriolis vibratory gyroscope (CVG), is a gyroscope that uses a vibrating structure to determine the rate of rotation. A vibrating structure gyroscope functions much like the halteres of flies (insects in the order Diptera).
+The underlying physical principle is that a vibrating object tends to continue vibrating in the same plane even if its support rotates. The Coriolis effect causes the object to exert a force on its support, and by measuring this force the rate of rotation can be determined.
+Vibrating structure gyroscopes are simpler and cheaper than conventional rotating gyroscopes of similar accuracy. Inexpensive vibrating structure gyroscopes manufactured with MEMS technology are widely used in smartphones, gaming devices, cameras and many other applications.
+

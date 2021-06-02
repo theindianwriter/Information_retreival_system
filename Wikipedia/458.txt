@@ -1,0 +1,2 @@
+In solid state physics the electronic specific heat, sometimes called the electron heat capacity, is the specific heat of an electron gas. Heat is transported by phonons and by free electrons in solids. For pure metals, however, the electronic contributions dominate in the thermal conductivity. In impure metals, the electron mean free path is reduced by collisions with impurities, and the phonon contribution may be comparable with the electronic contribution.
+

@@ -1,0 +1,55 @@
+Creep and shrinkage of concrete are two physical properties of concrete. The creep of concrete, which originates from the calcium silicate hydrates (C-S-H) in the hardened Portland cement paste (which is the binder of mineral aggregates), is fundamentally different from the creep of metals and polymers. Unlike the creep of metals, it occurs at all stress levels and, within the service stress range, is linearly dependent on the stress if the pore water content is constant. Unlike the creep of polymers and metals, it exhibits multi-months aging, caused by chemical hardening due to hydration which stiffens the microstructure, and multi-year aging, caused by long-term relaxation of self-equilibrated micro-stresses in the nano-porous microstructure of the C-S-H. If concrete is fully dried, it does not creep, but it is next to impossible to dry concrete fully without severe cracking.
+
+Changes of pore water content due to drying or wetting processes cause significant volume changes of concrete in load-free specimens. They are called the shrinkage (typically causing strains between 0.0002 and 0.0005, and in low strength concretes even 0.0012) or swelling (< 0.00005 in normal concretes, < 0.00020 in high strength concretes). To separate shrinkage from creep, the compliance function 
+  
+    
+      
+        J
+        (
+        t
+        ,
+        
+          t
+          ′
+        
+        )
+      
+    
+    {\displaystyle J(t,t')}
+  , defined as the stress-produced strain 
+  
+    
+      
+        ϵ
+      
+    
+    {\displaystyle \epsilon }
+   (i.e., the total strain minus shrinkage) caused at time t by a unit sustained uniaxial stress 
+  
+    
+      
+        σ
+        =
+        1
+      
+    
+    {\displaystyle \sigma =1}
+   applied at age 
+  
+    
+      
+        
+          t
+          ′
+        
+      
+    
+    {\displaystyle t'}
+  , is measured as the strain difference between the loaded and load-free specimens.
+The multi-year creep evolves logarithmically in time (with no final asymptotic value), and over the typical structural lifetimes it may attain values 3 to 6 times larger than the initial elastic strain. When a deformation is suddenly imposed and held constant, creep causes relaxation of critically produced elastic stress. After unloading, creep recovery takes place, but it is partial, because of aging.
+In practice, creep during drying is inseparable from shrinkage. The rate of creep increases with the rate of change of pore humidity (i.e., relative vapor pressure in the pores). For small specimen thickness, the creep during drying greatly exceeds the sum of the drying shrinkage at no load and the creep of a loaded sealed specimen (Fig. 1 bottom). The difference, called the drying creep or Pickett effect (or stress-induced shrinkage), represents a hygro-mechanical coupling between strain and pore humidity changes.
+Drying shrinkage at high humidities (Fig. 1 top and middle) is caused mainly by compressive stresses in the solid microstructure which balance the increase in capillary tension and surface tension on the pore walls. At low pore humidities (<75%), shrinkage is caused by a decrease of the disjoining pressure across nano-pores less than about 3 nm thick, filled by adsorbed water.
+The chemical processes of Portland cement hydration lead to another type of shrinkage, called the autogeneous shrinkage, which is observed in sealed specimens, i.e., at no moisture loss. It is caused partly by chemical volume changes, but mainly by self-desiccation due to loss of water consumed by the hydration reaction. It amounts to only about 5% of the drying shrinkage in normal concretes, which self-desiccate to about 97% pore humidity. But it can equal the drying shrinkage in modern high-strength concretes with very low water-cement ratios, which may self-desiccate to as low as 75% humidity.
+The creep originates in the calcium silicate hydrates (C-S-H) of hardened Portland cement paste. It is caused by slips due to bond ruptures, with bond restorations at adjacent sites. The C-S-H is strongly hydrophilic, and has a colloidal microstructure disordered from a few nanometers up. The paste has a porosity of about 0.4 to 0.55 and an enormous specific surface area, roughly 500 m2/cm3. Its main component is the tri-calcium silicate hydrate gel (3 CaO · 2 SiO3 · 3 H2O, in short C3S2H3). The gel forms particles of colloidal dimensions, weakly bound by van der Waals forces.
+The physical mechanism and modeling are still being debated. The constitutive material model in the equations that follow is not the only one available but has at present the strongest theoretical foundation and fits best the full range of available test data.
+

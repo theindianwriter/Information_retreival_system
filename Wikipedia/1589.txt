@@ -1,0 +1,38 @@
+Blade element theory (BET) is a mathematical process originally designed by  William Froude (1878), David W. Taylor (1893) and Stefan Drzewiecki to determine the behavior of propellers. It involves breaking a blade down into several small parts then determining the forces on each of these small blade elements. These forces are then integrated along the entire blade and over one rotor revolution in order to obtain the forces and moments produced by the entire propeller or rotor. One of the key difficulties lies in modelling the induced velocity on the rotor disk. Because of this the blade element theory is often combined with momentum theory to provide additional relationships necessary to describe the induced velocity on the rotor disk, producing blade element momentum theory. At the most basic level of approximation a uniform induced velocity on the disk is assumed:
+
+  
+    
+      
+        
+          v
+          
+            i
+          
+        
+        =
+        
+          
+            
+              
+                T
+                A
+              
+            
+            ⋅
+            
+              
+                1
+                
+                  2
+                  ρ
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle v_{i}={\sqrt {{\frac {T}{A}}\cdot {\frac {1}{2\rho }}}}.}
+  Alternatively the variation of the induced velocity along the radius can be modeled by breaking the blade down into small annuli and applying the conservation of mass, momentum and energy to every annulus. This approach is sometimes called the Froude–Finsterwalder equation.
+If the blade element method is applied to helicopter rotors in forward flight it is necessary to consider the flapping motion of the blades as well as the longitudinal and lateral distribution of the induced velocity on the rotor disk. The most simple forward flight inflow models are first harmonic models.

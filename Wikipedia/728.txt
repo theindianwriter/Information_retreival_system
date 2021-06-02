@@ -1,0 +1,110 @@
+The Drude model of electrical conduction was proposed in 1900 by Paul Drude to explain the transport properties of electrons in materials (especially metals). The model, which is an application of kinetic theory, assumes that the microscopic behaviour of electrons in a solid may be treated classically and looks much like a pinball machine, with a sea of constantly jittering electrons bouncing and re-bouncing off heavier, relatively immobile positive ions.
+The two most significant results of the Drude model are an electronic equation of motion,
+
+  
+    
+      
+        
+          
+            d
+            
+              d
+              t
+            
+          
+        
+        ⟨
+        
+          p
+        
+        (
+        t
+        )
+        ⟩
+        =
+        q
+        
+          (
+          
+            
+              E
+            
+            +
+            
+              
+                
+                  ⟨
+                  
+                    p
+                  
+                  (
+                  t
+                  )
+                  ⟩
+                  ×
+                  
+                    B
+                  
+                
+                m
+              
+            
+          
+          )
+        
+        −
+        
+          
+            
+              ⟨
+              
+                p
+              
+              (
+              t
+              )
+              ⟩
+            
+            τ
+          
+        
+        ,
+      
+    
+    {\displaystyle {\frac {d}{dt}}\langle \mathbf {p} (t)\rangle =q\left(\mathbf {E} +{\frac {\langle \mathbf {p} (t)\rangle \times \mathbf {B} }{m}}\right)-{\frac {\langle \mathbf {p} (t)\rangle }{\tau }},}
+  and a linear relationship between current density J and electric field E,
+
+  
+    
+      
+        
+          J
+        
+        =
+        
+          (
+          
+            
+              
+                n
+                
+                  q
+                  
+                    2
+                  
+                
+                τ
+              
+              m
+            
+          
+          )
+        
+        
+          E
+        
+        .
+      
+    
+    {\displaystyle \mathbf {J} =\left({\frac {nq^{2}\tau }{m}}\right)\mathbf {E} .}
+  Here t is the time, ⟨p⟩ is the average momentum per electron and q, n, m, and τ are respectively the electron charge, number density, mass, and mean free time between ionic collisions. The latter expression is particularly important because it explains in semi-quantitative terms why Ohm's law, one of the most ubiquitous relationships in all of electromagnetism, should hold.The model was extended in 1905 by Hendrik Antoon Lorentz (and hence is also known as the Drude–Lorentz model) to give the relation between the thermal conductivity and the electric conductivity of metals (see Lorenz number), and is a classical model. Later it was supplemented with the results of quantum theory in 1933 by Arnold Sommerfeld and Hans Bethe, leading to the Drude–Sommerfeld model.

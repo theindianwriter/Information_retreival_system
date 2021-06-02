@@ -1,0 +1,254 @@
+Mangler transformation, also known as Mangler-Stepanov transformation (Stepanov 1947, Mangler 1948, Schlichting 1955),
+reduces the axisymmetric  boundary layer equations to the plane boundary layer equations.
+The transformation transforms the equations of axisymmetric boundary layer with external velocity 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+   in terms of original variables 
+  
+    
+      
+        x
+        ,
+        y
+        ,
+        u
+        ,
+        v
+      
+    
+    {\displaystyle x,y,u,v}
+   into the equations of plane boundary layer with external velocity 
+  
+    
+      
+        
+          
+            
+              U
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {U}}}
+   in terms of the new variables 
+  
+    
+      
+        
+          
+            
+              x
+              ¯
+            
+          
+        
+        ,
+        
+          
+            
+              y
+              ¯
+            
+          
+        
+        ,
+        
+          
+            
+              u
+              ¯
+            
+          
+        
+        ,
+        
+          
+            
+              v
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {x}},{\bar {y}},{\bar {u}},{\bar {v}}}
+  . The transformation is given by the formulas
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      
+                        x
+                        ¯
+                      
+                    
+                  
+                  =
+                  
+                    
+                      1
+                      
+                        L
+                        
+                          2
+                        
+                      
+                    
+                  
+                  
+                    ∫
+                    
+                      0
+                    
+                    
+                      x
+                    
+                  
+                  
+                    r
+                    
+                      2
+                    
+                  
+                  (
+                  x
+                  )
+                  d
+                  x
+                  ,
+                  
+                  
+                    
+                      
+                        y
+                        ¯
+                      
+                    
+                  
+                  =
+                  
+                    
+                      
+                        r
+                        (
+                        x
+                        )
+                      
+                      L
+                    
+                  
+                  y
+                  ,
+                
+              
+            
+            
+              
+                
+                  
+                    
+                      
+                        u
+                        ¯
+                      
+                    
+                  
+                  =
+                  u
+                  ,
+                  
+                  
+                    
+                      
+                        v
+                        ¯
+                      
+                    
+                  
+                  =
+                  
+                    
+                      L
+                      r
+                    
+                  
+                  
+                    (
+                    
+                      v
+                      +
+                      
+                        
+                          
+                            r
+                            ′
+                          
+                          r
+                        
+                      
+                      y
+                      u
+                    
+                    )
+                  
+                  ,
+                
+              
+            
+            
+              
+                
+                  
+                    
+                      
+                        U
+                        ¯
+                      
+                    
+                  
+                  =
+                  U
+                  ,
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{l}\displaystyle {\bar {x}}={\frac {1}{L^{2}}}\int \limits _{0}^{x}r^{2}(x)dx,\quad {\bar {y}}={\frac {r(x)}{L}}y,\\\displaystyle {\bar {u}}=u,\quad {\bar {v}}={\frac {L}{r}}\left(v+{\frac {r'}{r}}yu\right),\\\displaystyle {\bar {U}}=U,\end{array}}}
+  
+where 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   is a constant length, 
+  
+    
+      
+        r
+        (
+        x
+        )
+      
+    
+    {\displaystyle r(x)}
+   is the distance from the point on the wall to the axis.

@@ -1,0 +1,2 @@
+In astrophysics, a bow shock occurs when the magnetosphere of an astrophysical object interacts with the nearby flowing ambient plasma such as the solar wind.  For Earth and other magnetized planets, it is the boundary at which the speed of the stellar wind abruptly drops as a result of its approach to the magnetopause. For stars, this boundary is typically the edge of the astrosphere, where the stellar wind meets the interstellar medium.
+

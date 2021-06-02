@@ -1,0 +1,39 @@
+Magnetic reconnection is a physical process occurring in highly conducting plasmas in which the magnetic topology is rearranged and magnetic energy is converted to kinetic energy, thermal energy, and particle acceleration.  Magnetic reconnection occurs on timescales intermediate between slow resistive diffusion of the magnetic field and fast Alfvénic timescales.
+According to simple resistive magnetohydrodynamics (MHD) theory, reconnection happens because the plasma's electrical resistivity near the boundary layer opposes the currents necessary to sustain the change in the magnetic field.  The need for such a current can be seen from one of Maxwell's equations,
+
+  
+    
+      
+        ∇
+        ×
+        
+          B
+        
+        =
+        μ
+        
+          J
+        
+        +
+        μ
+        ϵ
+        
+          
+            
+              ∂
+              
+                E
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \nabla \times \mathbf {B} =\mu \mathbf {J} +\mu \epsilon {\frac {\partial \mathbf {E} }{\partial t}}.}
+  The resistivity of the current layer allows magnetic flux from either side to diffuse through the current layer, cancelling outflux from the other side of the boundary.  When this happens, the plasma is pulled out by magnetic tension along the direction of the magnetic field lines.  The resulting drop in pressure pulls more plasma and magnetic flux into the central region, yielding a self-sustaining process.
+A current problem in plasma physics is that observed reconnection happens much faster than predicted by MHD in high Lundquist number plasmas (i.e. fast magnetic reconnection). Solar flares, for example, proceed 13–14 orders of magnitude faster than a naive calculation would suggest, and several orders of magnitude faster than current theoretical models that include turbulence and kinetic effects.  One possible mechanism to explain the discrepancy is that the electromagnetic turbulence in the boundary layer is sufficiently strong to scatter electrons, raising the plasma's local resistivity.  This would allow the magnetic flux to diffuse faster.

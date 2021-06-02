@@ -1,0 +1,1 @@
+The Compact Toroidal Hybrid (CTH) is an experimental device at Auburn University that uses magnetic fields to confine high-temperature plasmas. CTH is a torsatron type of stellarator with an external, continuously wound helical coil that generates the bulk of the magnetic field for containing a plasma.

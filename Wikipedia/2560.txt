@@ -1,0 +1,5 @@
+Multiferroics are defined as materials that exhibit more than one of the primary ferroic properties in the same phase:
+ferromagnetism – a magnetisation that is switchable by an applied magnetic field
+ferroelectricity – an electric polarisation that is switchable by an applied electric field
+ferroelasticity – a deformation that is switchable by an applied stressWhile ferroelectric ferroelastics and ferromagnetic ferroelastics are formally multiferroics, these days the term is usually used to describe the magnetoelectric multiferroics that are simultaneously ferromagnetic and ferroelectric. Sometimes the definition is expanded to include non-primary order parameters, such as antiferromagnetism or ferrimagnetism. In addition, other types of primary order, such as ferroic arrangements of magneotelectric multipoles of which ferrotoroidicity is an example, have also been recently proposed.
+Besides scientific interest in their physical properties, multiferroics have potential for applications as actuators, switches, magnetic field sensors and new types of electronic memory devices.

@@ -1,0 +1,2 @@
+In supersonic aerodynamics, unstart refers to a generally violent breakdown of the supersonic airflow. The phenomenon occurs when mass flow rate changes significantly within a duct. Avoiding unstarts is a key objective in the design of the engine air intakes (inlets U.S.) of supersonic aircraft that cruise at speeds in excess of Mach 2.2.
+

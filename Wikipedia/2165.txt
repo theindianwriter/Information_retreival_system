@@ -1,0 +1,6 @@
+In industrial process engineering, mixing is a unit operation that involves manipulation of a heterogeneous physical system with the intent to make it more homogeneous. Familiar examples include pumping of the water in a swimming pool to homogenize the water temperature, and the stirring of pancake batter to eliminate lumps (deagglomeration). 
+Mixing is performed to allow heat and/or mass transfer to occur between one or more streams, components or phases. Modern industrial processing almost always involves some form of mixing. Some classes of chemical reactors are also mixers. 
+With the right equipment, it is possible to mix a solid, liquid or gas into another solid, liquid or gas. A biofuel fermenter may require the mixing of microbes, gases and liquid medium for optimal yield; organic nitration requires concentrated (liquid) nitric and sulfuric acids to be mixed with a hydrophobic organic phase; production of pharmaceutical tablets requires blending of solid powders. 
+The opposite of mixing is segregation. A classical example of segregation is the brazil nut effect.
+
+The mathematics of mixing is highly abstract, and is a part of ergodic theory, itself a part of chaos theory.

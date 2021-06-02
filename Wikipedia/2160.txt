@@ -1,0 +1,3 @@
+Convection (or convective heat transfer) is the transfer of heat from one place to another due to the movement of fluid. Although often discussed as a distinct method of heat transfer, convective heat transfer involves the combined processes of conduction (heat diffusion) and advection (heat transfer by bulk fluid flow). Convection is usually the dominant form of heat transfer in liquids and gases. 
+Note that this definition of convection is only applicable in Heat transfer and thermodynamic contexts. It should not to be confused with the dynamic fluid phenomenon of convection, which is typically referred to as Natural Convection in thermodynamic contexts in order to distinguish the two.
+

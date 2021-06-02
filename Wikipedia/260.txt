@@ -1,0 +1,32 @@
+In mathematics, the Hermite polynomials are a classical orthogonal polynomial sequence.
+The polynomials arise in:
+
+signal processing as Hermitian wavelets for wavelet transform analysis
+probability, such as the Edgeworth series, as well as in connection with Brownian motion;
+combinatorics, as an example of an Appell sequence, obeying the umbral calculus;
+numerical analysis as Gaussian quadrature;
+physics, where they give rise to the eigenstates of the quantum harmonic oscillator; and they also occur in some cases of the heat equation (when the term 
+  
+    
+      
+        
+          
+            
+              
+                x
+                
+                  u
+                  
+                    x
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}xu_{x}\end{aligned}}}
+   is present);
+systems theory in connection with nonlinear operations on Gaussian noise.
+random matrix theory in Gaussian ensembles.Hermite polynomials were defined by Pierre-Simon Laplace in 1810, though in scarcely recognizable form, and studied in detail by Pafnuty Chebyshev in 1859. Chebyshev's work was overlooked, and they were named later after Charles Hermite, who wrote on the polynomials in 1864, describing them as new. They were consequently not new, although Hermite was the first to define the multidimensional polynomials in his later 1865 publications.

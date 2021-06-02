@@ -1,0 +1,5 @@
+This is an incomplete list of DIN standards.
+
+The "STATUS" column gives the latest known status of the standard.
+If a standard has been withdrawn and no replacement specification is listed, either the specification was withdrawn without replacement or a replacement specification could not be identified.
+DIN stands for "Deutsches Institut für Normung", meaning "German institute for standardisation". DIN standards that begin with "DIN V" ("Vornorm", meaning "pre-issue") are the result of standardization work, but because of certain reservations on the content or because of the divergent compared to a standard installation procedure of DIN, they are not yet published standards.

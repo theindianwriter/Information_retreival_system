@@ -1,0 +1,1 @@
+The moving particle semi-implicit (MPS) method is a computational method for the simulation of incompressible free surface flows. It is a macroscopic, deterministic particle method (Lagrangian mesh-free method) developed by Koshizuka and Oka (1996).

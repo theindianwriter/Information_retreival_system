@@ -1,0 +1,2 @@
+In plasma physics, an Alfvén wave, named after Hannes Alfvén, is a type of magnetohydrodynamic wave in which ions oscillate in response to a restoring force provided by an effective tension on the magnetic field lines.
+

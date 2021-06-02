@@ -1,0 +1,3 @@
+A turbocharger (technically a turbosupercharger), colloquially known as turbo, is a turbine-driven, forced induction device that increases an internal combustion engine's power output by forcing extra compressed air into the combustion chamber.
+This improvement over a naturally aspirated engine's power output is because the compressor can force more air—and proportionately more fuel—into the combustion chamber than atmospheric pressure (and for that matter, ram air intakes) alone.
+Manufacturers commonly use turbochargers in truck, car, train, aircraft, and construction-equipment engines. They are most often used with Otto cycle and diesel cycle internal combustion engines.

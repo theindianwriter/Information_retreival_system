@@ -1,0 +1,102 @@
+Schmidt number (Sc) is a dimensionless number defined as the ratio of momentum diffusivity (kinematic viscosity) and mass diffusivity, and is used to characterize fluid flows in which there are simultaneous momentum and mass diffusion convection processes. It was named after the German engineer Ernst Heinrich Wilhelm Schmidt (1892–1975).
+The Schmidt number is the ratio of the shear component for diffusivity viscosity/density to the diffusivity for mass transfer D. It physically relates the relative thickness of the hydrodynamic layer and mass-transfer boundary layer.It is defined as:
+
+  
+    
+      
+        
+          S
+          c
+        
+        =
+        
+          
+            ν
+            D
+          
+        
+        =
+        
+          
+            μ
+            
+              ρ
+              D
+            
+          
+        
+        =
+        
+          
+            
+              viscous diffusion rate
+            
+            
+              molecular (mass) diffusion rate
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Sc} ={\frac {\nu }{D}}={\frac {\mu }{\rho D}}={\frac {\mbox{viscous diffusion rate}}{\mbox{molecular (mass) diffusion rate}}}}
+  where:
+
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+   is the kinematic viscosity or (
+  
+    
+      
+        
+          μ
+        
+      
+    
+    {\displaystyle {\mu }}
+  /
+  
+    
+      
+        
+          ρ
+        
+        
+      
+    
+    {\displaystyle {\rho }\,}
+  ) in units of (m2/s)
+
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+   is the mass diffusivity (m2/s).
+
+  
+    
+      
+        
+          μ
+        
+      
+    
+    {\displaystyle {\mu }}
+   is the dynamic viscosity of the fluid (Pa·s or N·s/m2 or kg/m·s)
+
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   is the density of the fluid (kg/m3).The heat transfer analog of the Schmidt number is the Prandtl number (Pr). The ratio of thermal diffusivity to mass diffusivity is the Lewis number (Le).
+

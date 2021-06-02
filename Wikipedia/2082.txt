@@ -1,0 +1,60 @@
+Stimulated Raman spectroscopy, also referred to as stimulated raman scattering (SRS) is a form of spectroscopy employed in physics, chemistry, biology, and other fields. The basic mechanism resembles that of spontaneous Raman spectroscopy: a pump photon, of the angular frequency 
+  
+    
+      
+        
+          ω
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \omega _{p}}
+  , which is absorbed by a molecule has some small probability of inducing some vibrational (or rotational) transition, as opposed to inducing a simple Rayleigh transition. This makes the molecule emit a photon at a shifted frequency. However, SRS, as opposed to spontaneous Raman spectroscopy, is a third-order non-linear phenomenon involving a second photon—the Stokes photon of angular frequency 
+  
+    
+      
+        
+          ω
+          
+            S
+          
+        
+      
+    
+    {\displaystyle \omega _{S}}
+  —which stimulates a specific transition. When the difference in frequency between both photons (
+  
+    
+      
+        
+          ω
+          
+            p
+          
+        
+        −
+        
+          ω
+          
+            S
+          
+        
+      
+    
+    {\displaystyle \omega _{p}-\omega _{S}}
+  ) resembles that of a specific vibrational (or rotational) transition (
+  
+    
+      
+        
+          ω
+          
+            ν
+          
+        
+      
+    
+    {\displaystyle \omega _{\nu }}
+  ) the occurrence of this transition is resonantly enhanced. In SRS, the signal is equivalent to changes in the intensity of the pump and Stokes beams. Employing a pump laser beam of a constant frequency and a Stokes laser beam of a scanned frequency (or vice versa) allows for the unraveling of the spectral fingerprint of the molecule. This spectral fingerprint differs from those obtained by other spectroscopy methods such as Rayleigh scattering as the Raman transitions confer to different exclusion rules than those that apply for Rayleigh transitions.

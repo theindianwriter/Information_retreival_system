@@ -1,0 +1,10 @@
+Le Chatelier's principle (pronounced UK:  or US: ), also called Chatelier's principle (or the Equilibrium Law), is a principle of chemistry used to predict the effect of a change in conditions on chemical equilibria. The principle is named after French chemist Henry Louis Le Chatelier, and sometimes also credited to Karl Ferdinand Braun, who discovered it independently. It can be stated as:
+
+When any system at equilibrium for a long period of time is subjected to a change in concentration, temperature, volume, or pressure, (1) the system changes to a new equilibrium, and (2) this change partly counteracts the applied change.
+It is common to treat the principle as a more general observation of systems, such as 
+
+When a settled system is disturbed, it will adjust to diminish the change that has been made to it
+or, "roughly stated",
+Any change in status quo prompts an opposing reaction in the responding system.
+The concept of systemic maintenance of an equilibrium state despite perturbations has a variety of names, depending upon the discipline using it (e.g. homeostasis, an idea which encompasses the concept, is commonly used in biology), and has been studied in a variety of contexts, chiefly in the natural sciences. In chemistry, the principle is used to manipulate the outcomes of reversible reactions, often to increase their yield. In pharmacology, the binding of ligands to receptors may shift the equilibrium according to Le Chatelier's principle, thereby explaining the diverse phenomena of receptor activation and desensitization. In economics, the principle has been generalized to help explain the price equilibrium of efficient economic systems.
+Phenomena in apparent contradiction to Le Chatelier's principle can also arise in systems of simultaneous equilibrium (see response reactions).

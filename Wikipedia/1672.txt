@@ -1,0 +1,75 @@
+Bessel functions, first defined by the mathematician Daniel Bernoulli and then generalized by Friedrich Bessel, are canonical solutions y(x) of Bessel's differential equation
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              y
+            
+            
+              d
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+        +
+        x
+        
+          
+            
+              d
+              y
+            
+            
+              d
+              x
+            
+          
+        
+        +
+        
+          (
+          
+            
+              x
+              
+                2
+              
+            
+            −
+            
+              α
+              
+                2
+              
+            
+          
+          )
+        
+        y
+        =
+        0
+      
+    
+    {\displaystyle x^{2}{\frac {d^{2}y}{dx^{2}}}+x{\frac {dy}{dx}}+\left(x^{2}-\alpha ^{2}\right)y=0}
+  for an arbitrary complex number α, the order of the Bessel function. Although α and −α produce the same differential equation, it is conventional to define different Bessel functions for these two values in such a way that the Bessel functions are mostly smooth functions of α.
+The most important cases are when α is an integer or half-integer. Bessel functions for integer α are also known as cylinder functions or the cylindrical harmonics because they appear in the solution to Laplace's equation in cylindrical coordinates. Spherical Bessel functions with half-integer α are obtained when the Helmholtz equation is solved in spherical coordinates.

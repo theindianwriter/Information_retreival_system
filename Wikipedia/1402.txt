@@ -1,0 +1,8 @@
+A solar flare is a sudden flash of increased brightness on the Sun, usually observed near its surface
+and in close proximity to a sunspot group. 
+Powerful flares are often, but not always, accompanied by a coronal mass ejection. Even the most powerful flares are barely detectable in the total solar irradiance (the "solar constant").Solar flares occur in a power-law spectrum of magnitudes; an energy release of typically 1020 joules of energy suffices to produce a clearly observable event, while a major event can emit up to 1025 joules.
+Although originally observed in the visible electromagnetic spectrum, especially in the Hα emission line of hydrogen, they can now be detected from radio waves to gamma-rays.
+Flares are closely associated with the ejection of plasmas and particles through the Sun's corona into outer space; flares also copiously emit radio waves.
+If the ejection is in the direction of the Earth, particles associated with this disturbance can penetrate into the upper atmosphere (the ionosphere) and cause bright auroras, and may even disrupt long range radio communication. 
+It usually takes days for the solar plasma ejecta to reach Earth. Flares also occur on other stars, where the term stellar flare applies.
+High-energy particles, which may be relativistic, can arrive almost simultaneously with the electromagnetic radiations.

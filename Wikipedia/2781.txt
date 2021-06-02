@@ -1,0 +1,3 @@
+Plasma actuators are a type of actuator currently being developed for aerodynamic flow control. Plasma actuators impart force in a similar way to ionocraft. Plasma flows control has drawn considerable attention and been used in boundary layer acceleration, airfoil separation control, forebody separation control, turbine blade separation control, axial compressor stability extension, heat transfer and high-speed jet control.
+The working of these actuators is based on the formation of a low-temperature plasma between a pair of asymmetric electrodes by application of a high-voltage AC signal across the electrodes. Consequently, air molecules from the air surrounding the electrodes are ionized, and are accelerated through the electric field.
+

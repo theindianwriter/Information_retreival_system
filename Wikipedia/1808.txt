@@ -1,0 +1,3 @@
+A shear band (or, more generally, a 'strain localization') is a narrow zone of intense shearing strain, usually of plastic nature, developing during severe deformation of ductile materials.
+As an example, a soil (overconsolidated silty-clay) specimen is shown in Fig. 1, after an axialsymmetric compression test. Initially the sample was cylindrical in shape and, since symmetry was tried to be preserved during the test, the cylindrical shape was maintained for a while during the test and the deformation was homogeneous, but at extreme loading two X-shaped shear bands had formed and the subsequent deformation was strongly localized (see also the sketch on the right of Fig. 1).
+

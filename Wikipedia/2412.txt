@@ -1,0 +1,31 @@
+In complex analysis, the Riemann mapping theorem states that if U is a non-empty simply connected open subset of the complex number plane C which is not all of C, then there exists a biholomorphic mapping f (i.e. a bijective holomorphic mapping whose inverse is also holomorphic) from U onto the open unit disk 
+
+  
+    
+      
+        D
+        =
+        {
+        z
+        ∈
+        
+          C
+        
+        :
+        
+          |
+        
+        z
+        
+          |
+        
+        <
+        1
+        }
+        .
+      
+    
+    {\displaystyle D=\{z\in \mathbf {C} :|z|<1\}.}
+  This mapping is known as a Riemann mapping.Intuitively, the condition that U be simply connected means that U does not contain any “holes”. The fact that f is biholomorphic implies that it is a conformal map and therefore angle-preserving. Intuitively, such a map preserves the shape of any sufficiently small figure, while possibly rotating and scaling (but not reflecting) it.
+Henri Poincaré proved that the map f is essentially unique: if z0 is an element of U and φ is an arbitrary angle, then there exists precisely one f as above such that f(z0) = 0 and such that the argument of the derivative of f at the point z0 is equal to φ. This is an easy consequence of the Schwarz lemma.
+As a corollary of the theorem, any two simply connected open subsets of the Riemann sphere which both lack at least two points of the sphere can be conformally mapped into each other.

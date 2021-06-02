@@ -1,0 +1,4 @@
+A supersonic aircraft is an aircraft able to fly faster than the speed of sound (Mach number 1). Supersonic aircraft were developed in the second half of the twentieth century and have been used almost entirely for research and military purposes. Only two, Tupolev Tu-144 (first flight - December 31, 1968) and the Concorde (first flight - March 2, 1969), ever entered service for civil use as airliners. Fighter jets are the most common example of supersonic aircraft.
+The aerodynamics of supersonic flight is called compressible flow because of the compression associated with the shock waves or "sonic boom" created by any object travelling faster than sound.
+Aircraft flying at speeds above Mach 5 are often referred to as hypersonic aircraft.
+

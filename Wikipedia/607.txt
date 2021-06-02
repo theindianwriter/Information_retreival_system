@@ -1,0 +1,2 @@
+Mujeeb R. Malik is a Pakistani born American aerospace engineer serving as Senior Aerodynamicist at NASA Langley Research Center. He is known for his research in boundary layer stability, laminar-turbulent transition, computational methods and aerodynamic simulations. He was the architect of CFD Vision 2030, a NASA-sponsored study to advance the state-of-the-art of computational fluid dynamics (CFD) by exploiting high performance computing and modern validation experiments .
+

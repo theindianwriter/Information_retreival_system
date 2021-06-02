@@ -1,0 +1,3 @@
+A diverterless supersonic inlet (DSI) is a type of jet engine air intake used by some modern combat aircraft to control air flow into their engines. It consists of a "bump" and a forward-swept inlet cowl, which work together to divert boundary layer airflow away from the aircraft's engine. This eliminates the need for a splitter plate, while compressing the air to slow it down from supersonic to subsonic speeds. The DSI can be used to replace conventional methods of controlling supersonic and boundary-layer airflow.
+DSIs can be used to replace the intake ramp and inlet cone, which are more complex, heavy and expensive.
+

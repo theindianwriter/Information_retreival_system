@@ -1,0 +1,10 @@
+Flow measurement is  the quantification of bulk fluid movement.  Flow can be measured in a variety of ways. The common types of flowmeters with industrial applications are listed below:
+
+a) Obstruction type (differential pressure or variable area)
+b) Inferential (turbine type)
+c) Electromagnetic
+d) Positive-displacement flowmeters, which accumulate a fixed volume of fluid and then count the number of times the volume is filled to measure flow.
+e) Fluid dynamic (vortex shedding)
+f) Anemometer
+g) Ultrasonic
+h) Mass flowmeter (Coriolis force).Flow measurement methods other than positive-displacement flowmeters rely on forces produced by the flowing stream as it overcomes a known constriction, to indirectly calculate flow. Flow may be measured by measuring the velocity of fluid over a known area. For very large flows, tracer methods may be used to deduce the flow rate from the change in concentration of a dye or radioisotope.

@@ -1,0 +1,1 @@
+This article is a summary of common equations and quantities in thermodynamics (see thermodynamic equations for more elaboration). SI units are used for absolute temperature, not Celsius or Fahrenheit.

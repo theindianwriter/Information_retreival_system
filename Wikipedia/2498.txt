@@ -1,0 +1,4 @@
+In navigation, dead reckoning is the process of calculating current position of some moving object by using a previously determined position, or fix, and then incorporating estimations of speed, heading direction, and course over elapsed time. The corresponding term in biology, used to describe the processes by which animals update their estimates of position or heading, is path integration.
+
+Dead reckoning is subject to cumulative errors. Advances in navigational aids that give accurate information on position, in particular satellite navigation using the Global Positioning System, have made simple dead reckoning by humans obsolete for most purposes. However, inertial navigation systems, which provide very accurate directional information, use dead reckoning and are very widely applied.
+

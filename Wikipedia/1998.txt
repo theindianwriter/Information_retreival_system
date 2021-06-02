@@ -1,0 +1,2 @@
+Solder fatigue is the mechanical degradation of solder due to deformation under cyclic loading. This can often occur at stress levels below the yield stress of solder as a result of repeated temperature fluctuations, mechanical vibrations, or mechanical loads. Techniques to evaluate solder fatigue behavior include finite element analysis and semi-analytical closed-form equations.
+
